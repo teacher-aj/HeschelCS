@@ -96,7 +96,7 @@ Some of them are also [free as in speech](https://en.wiktionary.org/wiki/free_as
 
 | category                      | points/assignment         | *approximate* percentage |
 | ----------------------------- | ------------------------- | ---- |
-| Classwork (daily)                    | `2**1` - `2**2`      | 20%  |
+| Classwork (daily)                    | `2**1` || 20%  |
 | quizzes (weekly)              | `2**2` - `2**3`             | 40%  |
 | projects (every 2-3 weeks)    | `2**3` - `2**6`             | 40%  |
 
