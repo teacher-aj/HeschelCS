@@ -1,73 +1,44 @@
-## CSCI040: ~Computing for the Web~ Introduction to Hacking
-<!--
-see: http://nifty.stanford.edu/2020/color-my-world/
--->
-
-<center>
-<img width='100%' src=img/hacker-way.jpg />
-</center>
+## Heschel Computer Science 2025-2026
 
 Important links:
 
-1. [What Hackers get Paid](https://www.levels.fyi/comp.html?track=Data%20Scientist)
-
-1. [Tech employers illegally collude to reduce salaries](https://en.wikipedia.org/wiki/High-Tech_Employee_Antitrust_Litigation)
 
 ## About the Instructor
 
 |||
 |-|-|
-| Name | Mike Izbicki (call me Mike) |
-| Email | mizbicki@cmc.edu |
-| Office | Adams 216 |
-| Office Hours | See [Issue #321](https://github.com/mikeizbicki/cmc-csci040/issues/321) |
-| Zoom | See [Issue #322](https://github.com/mikeizbicki/cmc-csci040/issues/322) |
-| Webpage | <https://izbicki.me> |
-| Research | Machine Learning (see [izbicki.me/research.html](https://izbicki.me/research.html) for some past projects) |
+| Name | AJ Holzer (call me AJ) |
+| Email | aj.holzer@heschel.org |
+| Office |Middle School [TO DO] |
+| Office Hours | See [TO DO] |
+| Zoom | See [TO DO] |
+| Webpage |[TO DO]|
 
-Fun facts:
-1. grew up in San Clemente (~1 hr south of Claremont)
-1. 7 years in the navy
-    1. nuclear submarine officer, personally converted >10g of uranium into pure energy
-    1. worked at National Security Agency (NSA)
-    1. left Navy as a [conscientious objector](https://www.nytimes.com/2011/02/23/nyregion/23objector.html)
-1. phd/postdoc at UC Riverside
-1. taught in [DPRK (i.e. North Korea)](https://pust.co)
+about me:
+1. grew up in Highland Park IL (~30 Minutes north of Chicago)
+1. Went to college in California
+1. Worked at Hyperbaric Oxygen Lab in Israel mentioned in Joe Rogan Podcast and TIME
+1. taught 7th grade science last year
+1. interviewed for this Job while in japan
 
 ## About the Course
 
 **General Information:**
 
 1. There are no prerequisites for this course.
-
-1. This course fulfills the math general ed requirements for CMC students.
-
-   But, most students find it much harder than taking MATH030 (Calculus I).
-   If you haven't taken calculus, then you will likely have to put in about twice the amount of work on this class than you would to take calculus and get the same grade.
-
-1. This course is similar to [CS4 at Pitzer](https://catalog.pitzer.edu/preview_course_nopop.php?catoid=28&coid=35324), [CS5 at Harvey Mudd](https://www.cs.hmc.edu/twiki/bin/view/CS5), and [CS51 at Pomona](http://www.cs.pomona.edu/~tzuyi/Classes/sp18/cs051p/).
-    1. If you have already taken any of those courses,
-       then you cannot take this course for credit.
-       (Audit is okay.)
-    1. If you are majoring in computer science,
-       then you cannot take this course.
-    1. This course is designed for CMC's 
-        1. data science major,
-        1. data science sequence,
-        1. and computer science sequence.
     1. This course is more practical (and fun!) than the other CS courses.
-        1. Lots of the cool applications in the Pomona/Mudd CS curriculum are "reserved" for their upper division class,
-            but I've included them directly in this intro course.
         1. You will:
             1. Use LLMs (e.g. ChatGPT) to code.
                 (And learn what they can/can't do.)
             1. Count the number of computers in North Korea connected to the internet.
             1. Build your own Twitter clone.
-        1. This course is especially designed to connect computer science to non-STEM subjects like
+        1. This course is especially designed to connect computer science to other subjects like
             1. economics,
             1. government,
             1. literature, and
             1. history.
+               
+     But if you end up really liking it, I hope it sparks a greater interest in computer science in general.     
 
 **Primary Learning Objectives:**
 
@@ -107,36 +78,25 @@ Fun facts:
     1. [search engine optimization](https://moz.com/beginners-guide-to-seo)
 1. Use real-world programming tools
     1. Python libraries actually in use at [FAANG companies](https://www.investopedia.com/terms/f/faang-stocks.asp)
-    1. GitHub (which is different than git, something we'll learn in the follow-on class CS46)
+    1. GitHub 
     1. LLMs
-
-        <img src=img/llm.webp width=400px />
 
 **Textbook:**
 
 There is nothing to buy for this class.
-All of our references are [free as in beer](https://en.wiktionary.org/wiki/free_as_in_beer).
+All of our references are free (https://en.wiktionary.org/wiki/free_as_in_beer).
 Some of them are also [free as in speech](https://en.wiktionary.org/wiki/free_as_in_speech).
 
 1. Shay Howe's [Learn to Code HTML & CSS](https://learn.shayhowe.com/html-css/).
 1. Al Sweigart's [Automate the Boring Stuff with Python](https://automatetheboringstuff.com/).
 1. Lots of other online resources as provided in the weekly schedule.
 
-<!--
-Hackers believe in the free exchange of information and often use the following websites to share textbooks and other knowledge:
-
-1. https://b-ok.org
-1. https://sci-hub.tw
-1. https://thepiratebay.org
-
-But most of the people who use these sites are [script kiddies](https://en.wikipedia.org/wiki/Script_kiddie).
--->
 
 **Grades:**
 
 | category                      | points/assignment         | *approximate* percentage |
 | ----------------------------- | ------------------------- | ---- |
-| labs (weekly)                 | `2**1` - `2**2`             | 20%  |
+| Classwork                     | `2**1` - `2**2`             | 20%  |
 | quizzes (weekly)              | `2**2` - `2**3`             | 40%  |
 | projects (every 2-3 weeks)    | `2**3` - `2**6`             | 40%  |
 
@@ -146,9 +106,9 @@ This will be a low-stress but **very** challenging class.
     1. **No midterm/final exam.**
        Weekly quizzes ensure you don't fall behind on material, and if you bomb a quiz it's not a big deal.
 
-       1. Quizzes will be open note, and you will have "unlimited" time.
+       1. Quizzes will be open note.
 
-       1. Final project due during finals week.
+       1. Final project due during last week of semester.
 
     1. Most weekly labs are automatically graded by Python.
        Keep working on them until you get 100%.
@@ -163,15 +123,15 @@ This will be a low-stress but **very** challenging class.
             1. go from a 70% to a 100% in the class with the final project.
 
 1. The material is intrinsically *very* hard.
+
+    1.Probably harder than most other elective options
     1. That's why CS/DS majors get paid so much money... there's not many people willing to work hard enough to master these concepts.
-    1. That's why we have an extra lab session each week (and so 50% more in-person instruction time).
-        Also take advantage of office hours and the QCL.
+    1. The key to success is make the most in-person instruction time. If I have to worry about your behavior in class you will likely worry about your grade
 
         Historically:
-        1. The average student needs to spend about 10 hours per week outside of class to get an A.
-        1. About 50% of students choose to either:
-            1. spend 15-20 hours per week and get an A-/A,
-            1. or spend 10 hours per week and get a B/C.
+        1. To achieve an A, I estimate that a student will
+               - recieve 1 warning for in class behavior every month
+               - spend about 2 hours per week outside of class
 
 1. The projects are designed to be fun, real-world projects:
 
@@ -239,17 +199,6 @@ But if you do not complete the task, then you will be docked one letter grade (e
 
 1. (more complex option, but allows for more variety) Follow the instructions in the CSCI133 Caveat Task: <https://github.com/mikeizbicki/cmc-csci143/blob/2025spring/caveat_tasks/culture.md>
 
-<!--
-1. Read [Harry Potter and the Methods of Rationality](https://hpmor.com).
-   This is a fanfic written by [Eliezer Yudkowsky](https://en.wikipedia.org/wiki/Eliezer_Yudkowsky),
-   who is a famous [AI safety](https://futureoflife.org/ai-safety-research/) researcher.
-   The premise is that Harry Potter's parents were both wizards and scientists,
-   and the story introduces a lot of concepts important for AI safety and the philosophy of data science.
-
-   > **NOTE:**
-   > This is a LONG reading (roughly the equivalent of 2-3 books).
-   > Watching the shows/movies is the most efficient option time-wise.
--->
 
 See [Issue #260](https://github.com/mikeizbicki/cmc-csci040/issues/260) for instructions on how to get credit for completing these readings / viewings.
 
@@ -369,98 +318,3 @@ If you need any further accommodations, please ask.
 I want you to succeed and I'll make every effort to ensure that you can.
 
 <!--
-
-make labs due during the lab session; -1 point penalty for submitting late
-
-introduce pythontutor before doing python in vscode?
-
-Trick questions:
- 1. += vs =+
- 1. while n:
-        n //= 10
- 1. for i in range(-5, 5):
-        if i:
-            do something
-
-Functions:
-1. Create functions with default valued arguments
-1. Call functions with named arguments (in different orders)/variable number of arguments
-1. Call functions from within functions, actually using the returned result (return vs print)
-
-students don't understand functions and the difference of return/print
-
-for loop flags; the reddit assignment looping to see if a comment has a reply needs a boolean flag; we should visit this patter earlier in the class
-
-difference between pass vs continue
-
-blah(
-    username=xxx
-)
-print(username) # generates an error
-
-call a function without parentheses:
-def foo():
-    print('hello')
-    # print vs return
-foo
-
-Exceptions:
-1. Add ValueError to errors discussion
-1. cover when the error happens midway through the try
-1. when the error happens in the except clause
-1. cover try/except within try/except
-
-SQL:
-1. More step-by-step lab instructions
-1. Do lab with just SQL+Python before involving flask
-
-================================================================================
-
-More patterns:
-
-students struggle with nested lists/dictionaries; do more examples early on
-
-dictionary pattern where we have a list of items,
-and we use dictionary keys as the items and values as the counts
-
-dictionary/json pprint
-
-wait for dictionaries with JSON?  students have a LOT of trouble with dictionary indexing
-
-list like objects especially with praw not giving lists back
-
-str(comment.author)
-
-for comment in comments:
-    do comment
-comment
-
-for word in string is wrong
-
-if list == 0 instead of len(list)==0
-
-
-for comment.reply in comments.reply
-
-
-random.choice([])
-
-
-students don't understand the ? syntax in sql do quiz wth '?' vs ? and other insert syntax variations with python; last quiz was just sql, which wasn't enough; need for con.commit() and cur.fetchall()
-
-insert into users (username,password) values (username=?,password=?);
-
-
-
-students forget that you need parenthesis to call a function
-con.commit
-vs
-con.commit()
-
-
-
-request.form.get('message')
-select message from messages;
-message  <<-- students don't understand why you can't refer to just message in python
-
--->
