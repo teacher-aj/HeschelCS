@@ -194,26 +194,6 @@
     1. I will distribute the [Python cheat sheet](https://perso.limsi.fr/pointal/python:memento) in class.
        I recommend having this paper with you at all of our lectures and whenever you are coding in python.
 
-
-## Memes
-
-After this week, you should understand all the jokes in the following memes.
-
-<img src=float2.jpg width=img/400px>
-
-<hr>
-
-<img src=float.jpg width=img/400px>
-
-<hr>
-
-<img src=if.jpg width=img/400px>
-
-<hr>
-
-<img src=not_equals.jpg width=img/400px>
--->
-
 ## Lab
 
 Instructions for your lab are contained in the `lab.py` file.
