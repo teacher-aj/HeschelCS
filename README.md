@@ -1,6 +1,7 @@
 ## Heschel Computer Science 2025-2026
 
 Important links:
+Shay Howe's [HTML & CSS](https://learn.shayhowe.com/html-css/) book
 
 
 ## About the Instructor
