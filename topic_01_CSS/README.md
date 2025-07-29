@@ -2,21 +2,9 @@
 
 <img width='50%' src=img/Strip-Vengeance-de-codeur-650-finalenglish.jpg />
 
-**Announcements (Tuesday 28 Jan):**
+**Announcements:**
 
-1. Labs graded in sakai.
-
-    All submissions got 2/2 points :)
-
-1. Modified schedule this week.
-
-    Tuesday: CSS Quiz Prep
-
-    Thursday: Quiz/Lab (still have until Sunday to complete)
-
-    Friday: Start topic 02 python
-
-    1. Do the [prelecture tasks](https://github.com/mikeizbicki/cmc-csci040/tree/2025spring/topic_02_Python_ControlFlow#prelecture-tasks) to install python before class on Friday.
+    1. Do the [prelecture tasks](https://github.com/mikeizbicki/cmc-csci040/tree/2025spring/topic_02_Python_ControlFlow#prelecture-tasks) to install python before class on [TO DO].
 
 ## Lecture Notes: Cascading Style Sheets (CSS)
 
@@ -26,13 +14,12 @@
 1. The most important concept to learn is the *CSS selector*.
     1. Must understand the parent/child/sibling/etc relationship between HTML nodes.
     1. CSS selectors will be vital for understanding web scraping.
-    1. Quiz on Thursday.
+    1. Quiz [TO DO]
 
         See `practice_quiz1.pdf` and `practice_quiz2.pdf` for example problems.
 
-        You will have the first 10 minutes of class to complete the quiz.
+        You will have the first 10 minutes of class to complete the quiz in class. After 10 minutes I will ask you to complete the quiz in the hallway. The remainder of the time in class will be used           for labs and work on projects. 
 
-        I will arrive 10 minutes early, and you can also start before class if you'd like.
     1. The following Javascript can be used to get the answer to any quiz problem.
         Enter it the Firefox *debug console* (which you can open by pressing F12).
         ```
@@ -49,7 +36,7 @@
     -->
     <img width='50%' src=img/Strip-CSS-respect-650-finalenglish1.jpg />
 
-## Lab (on Thursday)
+## Lab (on [TO DO])
 
 <img width=40% src=img/photoshop.jpg>
 
@@ -63,21 +50,17 @@
 
 Instructions:
 
-1. Select a high profile user from [X/Twitter](https://x.com/), [BlueSky](https://bsky.app/), or [Mastodon](https://mstdn.social/explore).
-    Use Firefox's developer console to edit one of their messages to say something they would never say.
+1. Select a high profile user our journalist from [X/Twitter](https://x.com/), [Instagram](https://instagram.com/), or [CNN] (cnn.com).
+    Use Firefox's developer console to edit one of their messages to say something they would never say. You will not recieve credit for crude or inapproapriate edits.
     Take a screenshot and post the screenshot to GitHub Issues here: <https://github.com/mikeizbicki/cmc-csci040/issues/324>.
-
-    You can find examples from previous semesters at:
-    1. <https://github.com/mikeizbicki/cmc-csci040/issues/242>
-    1. <https://github.com/mikeizbicki/cmc-csci040/issues/86>
 
 1. Start working on project00.
 
     I recommend sharing backlinks to each other's websites.
-
     <img width='400px' src=img/comic14.gif />
 
 <!--
+
 1. (Optional) How to remove ads/popups/other crap from websites:
 
     1. uBlock Origin internally uses css selectors to block ads on webpages.
@@ -96,4 +79,4 @@ Instructions:
        you can visit [this webpage](https://adblockplus.org/filter-cheatsheet#elementhideemulation).
 -->
 
-There is nothing to submit on sakai for this lab.
+There is nothing to submit on schoology for this lab.
