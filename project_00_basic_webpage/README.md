@@ -1,15 +1,12 @@
 # Homework 0: Building a webpage
 
-<center>
-<img width='100%' src=webbish-web-design-comic.gif />
-</center>
 
 **Description:** 
 You will build a simple webpage and publish it to the internet.
 You get to choose any topic for the webpage (must be [SFW](https://en.wiktionary.org/wiki/SFW)!),
 and you can earn extra credit by having a large number of people visit your webpage.
 
-**Due:** Tuesday, 4 February, midnight
+**Due:** [INSERT DUE DATE]
 
 **Primary learning objectives:**
 
@@ -45,7 +42,7 @@ If you complete all checkboxes, then you will get 8/8 points.
 
      - [ ] be named `index.html`
 
-     - [ ] *contain a "follow" link to the course webpage (https://github.com/mikeizbicki/cmc-csci040) and a "follow" link to Mike Izbicki's personal webpage (https://izbicki.me)*
+     - [ ] *contain a "follow" link to the course webpage (https://github.com/teacher-aj/Heschel-CS-New)
 
         > **Note:** See [this tutorial](https://ahrefs.com/blog/nofollow-links/) for details.  I want that sweet, sweet pagerank...
 
@@ -98,9 +95,7 @@ If you complete all checkboxes, then you will get 8/8 points.
 
      - [ ] *pass the [W3 CSS Validator](https://jigsaw.w3.org/css-validator/) with no errors*
 
- - Your domain must:
-
-     - [ ] *have at least two [dofollow backlinks](https://www.semrush.com/blog/linkbuilding-dofollow-vs-nofollow-semrushchat/) from other domains (other student's projects are okay)*
+ - Extra Credit (1 point if total score < 8):
 
      - [ ] *be archived by the Internet Archive; see instructions [here](https://www.bitsgalore.org/2014/08/02/How-to-save-a-web-page-to-the-Internet-Archive) for submitting your webpage*
 
@@ -137,10 +132,9 @@ For any of these extra credit tasks, feel free to get creative and use whatever 
 
 ## Submission
 
-You must upload two URLs to sakai:
-1. the URL to your webpage, and
-1. the URL to the Internet Archive's copy of your webpage.
+You must upload the URL of your webpage to schoology:
+1. the URL to your webpage
 
-If you also completed extra credit,
+If you also completed any extra credit,
 take a screenshot proving you completed the extra credit,
 and upload that to sakai.
