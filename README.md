@@ -18,10 +18,10 @@ Important links:
 
 about me:
 1. grew up in Highland Park IL (~30 Minutes north of Chicago)
-1. Went to college in California
-1. Worked at Hyperbaric Oxygen Lab in Israel mentioned in Joe Rogan Podcast and TIME
-1. taught 7th grade science last year
-1. interviewed for this Job while in japan
+1. Studied neuroscience and computer science at a college in California (a little more than double the size of Heschel Highschool)
+1. Worked at Hyperbaric Oxygen Lab in Israel that was mentioned in [Joe Rogan Podcast](https://www.youtube.com/watch?v=9Bon5c5DEI4) and [CBS](https://www.cbsnews.com/news/promising-treatment-for-ptsd-hyperbaric-oxygen-therapy/) 
+1. Taught 7th grade science last year
+1. I visited five national parks this summer!
 
 ## About the Course
 
