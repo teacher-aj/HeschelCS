@@ -93,12 +93,12 @@
 
 **tl;dr**
 The goal of this lab is to publish a simple webpage online so that others can view it.
-This is the first step in completing [project\_00](/project_00/).
+This is the first step in completing [project\_00](/project_00_basic_webpage/).
 
 **Prelab Instructions:**
 
 Ensure that you have pressed the "watch" button at the top of this webpage.
-Read and follow the instructions in [Issue #320: the meet and greet thread](https://github.com/mikeizbicki/cmc-csci040/issues/236).
+Read and follow the instructions in [Issue #320: the meet and greet thread]().
 
 Watch the following videos if you're not already familiar with their contents:
     
