@@ -142,11 +142,9 @@ This will be a low-stress but **very** challenging class.
     |     | Project                 | Difficulty    |
     | --- | ----------------------- | ------------- |
     | 0   | Building a Webpage      | Easy          |
-    | 1   | Markdown compiler       | Hard          |
-    | 2   | Data visualization      | Medium        |
-    | 3   | Scraping ebay           | Medium        |
-    | 4   | Reddit propaganda bot (maybe swap out with LLM-specific RAG assignment)  | Hard          |
-    | 5   | Twitter clone           | Hard          |
+    | 1   | Data visualization      | Medium        |
+    | 2   | Scraping ebay           | Medium        |
+    | 3   | Twitter clone           | Hard          |
 
     This class has fewer projects than in CS4/CS5/CS51.
     (Those courses have 1 project per week.)
