@@ -56,9 +56,6 @@ Instructions:
 
 1. Start working on project00.
 
-    I recommend sharing backlinks to each other's websites.
-    <img width='400px' src=img/comic14.gif />
-
 <!--
 
 1. (Optional) How to remove ads/popups/other crap from websites:
