@@ -249,7 +249,7 @@ def factorial(n):
     93326215443944152681699238856266700490715968264381621468592963895217599993229915608941463976156518286253697920827223758251185210916864000000000000000000000000
     '''
 
-
+# (optional) one point EC 
 def is_prime(n):
     '''
     Return True if n is prime, and False otherwise.
@@ -273,7 +273,7 @@ def is_prime(n):
     False
     '''
 
-
+# (optional) one point EC 
 def is_perfect_square(n):
     '''
     Return True if n is is the product of two integers.
@@ -300,7 +300,7 @@ def is_perfect_square(n):
     True
     '''
 
-
+# (optional) one point EC 
 def fibonacci(n):
     '''
     Return the nth fibonacci number.
@@ -347,7 +347,7 @@ def fibonacci(n):
 ################################################################################
 # The problems below use all the same techniques as the problems above.
 # But they don't contain any hints about how to solve them.
-# So you will have to figure out for yourself when to use if/for/while statements.
+# Each will be worth two points of extra credit if you complete them. They are optional
 ################################################################################
 
 
