@@ -4,6 +4,7 @@ Important links:
 
 1. Shay Howe's [HTML & CSS](https://learn.shayhowe.com/html-css/) book
 1. Al Sweigart's [Automate the Boring Stuff](https://automatetheboringstuff.com/).
+1. You can use https://pythontutor.com to visualize what python is doing "step-by-step".
 
 
 ## About the Instructor
