@@ -30,11 +30,6 @@
     There's a LOT more to front-end dev that we're not covering (we're only doing like 10% of Shay Howe's book),
     and backend devs tend to not know much about frontend dev...
 
-    <!--
-    <img width='40%' src=img/Strip-High-Level-CSS-english650-final-1.jpg />
-    &nbsp;
-    -->
-    <img width='50%' src=img/Strip-CSS-respect-650-finalenglish1.jpg />
 
 ## Lab (on [TO DO])
 
