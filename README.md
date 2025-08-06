@@ -154,9 +154,10 @@ I have designed this course to be low-stress but **very** challenging.
     1. The key to success is make the most in-person instruction time. If I have to worry about your behavior in class you will likely worry about your grade
 
         Historically:
-        1. To achieve an A, I estimate that a student will
-               - recieve 1 warning for in class behavior every month
-               - spend about 2 hours per week outside of class
+        1. To achieve an A, I estimate that a student will have to
+               - recieve maximum classwork points 95%+ of classes
+               - spend about 2 hours per week on content outside of class
+               - Use class time efficiently
 
 1. The projects are designed to be fun, real-world projects:
 
@@ -167,17 +168,9 @@ I have designed this course to be low-stress but **very** challenging.
     | 2   | Scraping ebay           | Medium        |
     | 3   | Twitter clone           | Hard          |
 
-    This class has fewer projects than in CS4/CS5/CS51.
-    (Those courses have 1 project per week.)
-
-    Our projects more fun/interesting.
-    (But maybe a bit harder.)
 
     Our projects emphasize techniques that LLMs cannot do by themselves.
     (And I will teach you how to use LLMs productively to improve your work.)
-
-    Our projects are "light" versions of projects from [CSCI046 data structures](https://github.com/mikeizbicki/cmc-csci046) and [CSCI143 big data](https://github.com/mikeizbicki/cmc-csci143).
-    (Completing these projects gets you a head start in those future classes.)
 
 Your final grade will be computed according to the following table,
 with one caveat.
@@ -198,32 +191,26 @@ with one caveat.
 | 60 > grade                       | F             |
 
 *CAVEAT:*
-You must complete one of the following "caveat" tasks.
-The purpose of this task is to give you non-technical exposure to hacker culture.
+[CHECK BACK LATER] You must complete one of the following "caveat" tasks.
+The purpose of this task is to give you non-technical exposure to the culture surrounding computer science.
 Because the task is non-technical, it will not be graded and will not contribute to the numerical score of your grade.
 But if you do not complete the task, then you will be docked one letter grade (e.g. an A- becomes a B-).
 
 1. (simple option) Watch the following shows/movies about [cracking](http://www.catb.org/~esr/jargon/html/C/cracking.html) and [hacking](http://www.catb.org/~esr/jargon/html/H/hacker.html):
 
-    <!--
-    1. Season 1 of Mr. Robot (available on [Amazon Prime](https://www.amazon.com/gp/video/detail/B00YBX664Q)).
-       This is the most accurate portrayal of cracking in any movie, see for example [this article](https://www.pri.org/stories/how-realistic-are-hacks-mr-robot) and [this article](https://www.wired.com/2016/07/real-hackers-behind-mr-robot-get-right/).
-    -->
 
     1. War Games (available on [Amazon Prime](https://www.amazon.com/Wargames-Matthew-Broderick/dp/B083FY4CDG/)).
        This is a classic hacker movie and was quite realistic for what hacking looked like when the movie was released (1983).
 
     1. CitizenFour (available for free from the [Internet Archive](https://archive.org/details/Citizen.Four2014)).
        This is a documentary about Edward Snowden and the hacking that the NSA does.
-       There's also a live-action movie called [Snowden](https://www.amazon.com/Snowden-Joseph-Gordon-Levitt/dp/B01LWYVHKV) that you could also choose to watch.
 
     1. Zero Days - Security Leaks for Sale (available for free on [youtube](https://www.youtube.com/watch?v=4BTTiWkdT8Q))
         This documentary explores the [grey hat](http://www.catb.org/~esr/jargon/html/B/black-hat.html) world of hackers who develop software to break into computers and sell that software to questionable people... and it's all legal.
 
-1. (more complex option, but allows for more variety) Follow the instructions in the CSCI133 Caveat Task: <https://github.com/mikeizbicki/cmc-csci143/blob/2025spring/caveat_tasks/culture.md>
+1. Readings
 
-
-See [Issue #260](https://github.com/mikeizbicki/cmc-csci040/issues/260) for instructions on how to get credit for completing these readings / viewings.
+See [Issue #] for instructions on how to get credit for completing these readings / viewings.
 
 **Late Work Policy:**
 
