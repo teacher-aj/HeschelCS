@@ -117,23 +117,34 @@ I have designed this course to be low-stress but **very** challenging.
 
         Lots of "choose your own adventure" style assignments where you get to decide which tasks you want to complete.
 
-1. 30% of the course grade is "classwork"
-    1. By far the **most** important value in the class is that you are present and that you allow space for learning to take place.
-        1. I do not care if you do not understand the material, as long as I notice that you are sufficiently trying and using classtime
-    1. I do not tolerate the wasting of classtime by you or your peers
-        1. For every day you are in class you will earn 2 points
-        2. I will reduce one point if:
-            3. You disrupt class
-            4. You insult another student
-            5. You are playing games on your chromebook
-            6. You interrupt me or another student while they are speaking
-       3. You will lose the second point immediatley if
-           4. You do any of the above things again within one class period
-           5. You argue about the loss of a classwork point
-    1. I am reasonable and understanding. You all are kids and you have to sit at school for too long!
-       2. If you need to take a break from class let me know
-       3. If you have any questions about these policies please come see me
+## Classwork Policy (30% of Course Grade)
 
+### Core Expectations
+- The **most important** value in this class is **being present** and **creating space for learning** to happen.
+- I do **not** care if you don't fully understand the material, as long as I can see that:
+  - You're **genuinely trying**
+  - You're **engaged during class time**
+
+### Misuse of Class Time
+- **Class time is valuable.** Using it for anything other than learning is not acceptable.
+- This includes behaviors that **disrupt learning**—either your own or your classmates’.
+
+### How You Earn Classwork Points
+- Each day you're in class, you start with **2 classwork points**.
+- You will **lose 1 point** if you:
+  - Disrupt the class
+  - Insult another student
+  - Play games on your Chromebook
+  - Interrupt me or another student while they are speaking
+  - Anything else that detracts from our classroom goal
+- You will **lose the second point immediately** if:
+  - You repeat any of the above behaviors within the same class period
+  - You argue about the loss of a classwork point
+
+### Final Notes
+- I am **reasonable and understanding**—you’re kids and school days are long!
+- If you ever need to take a break during class, **just let me know**.
+- If you have any questions or concerns about this policy, **please come talk to me**.
 **If you lose classwork points for a majority of class periods (50%+ at 1 or less) your grade will be capped at a C**
 
 1. The material is intrinsically *very* hard.
