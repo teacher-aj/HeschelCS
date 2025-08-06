@@ -13,16 +13,15 @@ Important links:
 |-|-|
 | Name | AJ Holzer (call me AJ) |
 | Email | aj.holzer@heschel.org |
-| Office |Middle School [TO DO] |
-| Office Hours | See [TO DO] |
+| Office |Middle School |
+| Office Hours | See [Issue #2] (https://github.com/teacher-aj/CSHeschel-new/issues/2) |
 | Zoom | See [TO DO] |
-| Webpage |[TO DO]|
 
 about me:
-1. grew up in Highland Park IL (~30 Minutes north of Chicago)
-1. Studied neuroscience and computer science at a college in California (a little more than double the size of Heschel Highschool)
-1. Worked at Hyperbaric Oxygen Lab in Israel that was mentioned in [Joe Rogan Podcast](https://www.youtube.com/watch?v=9Bon5c5DEI4) and [CBS](https://www.cbsnews.com/news/promising-treatment-for-ptsd-hyperbaric-oxygen-therapy/) 
-1. Taught 7th grade science last year
+1. Grew up in Highland Park IL (~30 Minutes north of Chicago)
+1. I studied neuroscience and computer science at a small college in California (a little more than double the size of Heschel Highschool)
+1. I've worked at a lab in Israel, researching hyperbaric oxygen therapy. This work was mentioned in [Joe Rogan Podcast](https://www.youtube.com/watch?v=9Bon5c5DEI4) and [CBS](https://www.cbsnews.com/news/promising-treatment-for-ptsd-hyperbaric-oxygen-therapy/) 
+1. I taught 7th grade science last year (I teach it this year as well!)
 1. I visited five national parks this summer!
 
 ## About the Course
@@ -40,9 +39,9 @@ about me:
             1. economics,
             1. government,
             1. literature, and
-            1. history.
+            1. science.
                
-     But if you end up really liking it, I hope it sparks a greater interest in computer science in general.     
+     But if you end up really liking it, I hope it sparks a greater interest in computer science in general. But even if you don't, I hope it can give you some practicial skills to use in the field that you may be interested in.      
 
 **Primary Learning Objectives:**
 
@@ -55,8 +54,6 @@ about me:
     1. HTML
     1. CSS
     1. JavaScript
-    1. Markdown
-    1. Jinja
     1. SQL
     1. and **Python** <-- this is the main focus of the course
 
@@ -88,8 +85,7 @@ about me:
 **Textbook:**
 
 There is nothing to buy for this class.
-All of our references are free (https://en.wiktionary.org/wiki/free_as_in_beer).
-Some of them are also [free as in speech](https://en.wiktionary.org/wiki/free_as_in_speech).
+All of our references are free.
 
 1. Shay Howe's [Learn to Code HTML & CSS](https://learn.shayhowe.com/html-css/).
 1. Al Sweigart's [Automate the Boring Stuff with Python](https://automatetheboringstuff.com/).
@@ -100,31 +96,45 @@ Some of them are also [free as in speech](https://en.wiktionary.org/wiki/free_as
 
 | category                      | points/assignment         | *approximate* percentage |
 | ----------------------------- | ------------------------- | ---- |
-| Classwork (daily)                    | `2**1` || 20%  |
-| quizzes (weekly)              | `2**2` - `2**3`             | 40%  |
-| projects (every 2-3 weeks)    | `2**3` - `2**6`             | 40%  |
+| Classwork (daily)             | `2**1` |                  | 30%  |
+| quizzes (weekly)              | `2**2` - `2**3`           | 35%  |
+| projects (every 2-3 weeks)    | `2**3` - `2**6`           | 35%  |
 
-This will be a low-stress but **very** challenging class.
+I have designed this course to be low-stress but **very** challenging.
 
 1. The course is low-stress because you have full control over what your grade will be.
     1. **No midterm/final exam.**
        Weekly quizzes ensure you don't fall behind on material, and if you bomb a quiz it's not a big deal.
 
-       1. Quizzes will be open note.
+       1. Quizzes will be open note, but closed computer.
 
        1. Final project due during last week of semester.
 
     1. Most weekly labs are automatically graded by Python.
        Keep working on them until you get 100%.
 
-    1. Projects have TONs of extra credit opportunities.
+    1. Projects/homework will have TONs of extra credit opportunities.
 
         Lots of "choose your own adventure" style assignments where you get to decide which tasks you want to complete.
 
-        In the past, some students have:
-            1. ended the course with a 150%,
-            1. choosen not to complete certain projects because they would get an A without completing them,
-            1. go from a 70% to a 100% in the class with the final project.
+1. 30% of the course grade is "classwork"
+    1. By far the **most** important value in the class is that you are present and that you allow space for learning to take place.
+        1. I do not care if you do not understand the material, as long as I notice that you are sufficiently trying and using classtime
+    1. I do not tolerate the wasting of classtime by you or your peers
+        1. For every day you are in class you will earn 2 points
+        2. I will reduce one point if:
+            3. You disrupt class
+            4. You insult another student
+            5. You are playing games on your chromebook
+            6. You interrupt me or another student while they are speaking
+       3. You will lose the second point immediatley if
+           4. You do any of the above things again within one class period
+           5. You argue about the loss of a classwork point
+    1. I am reasonable and understanding. You all are kids and you have to sit at school for too long!
+       2. If you need to take a break from class let me know
+       3. If you have any questions about these policies please come see me
+
+**If you lose classwork points for a majority of class periods (50%+ at 1 or less) your grade will be capped at a C**
 
 1. The material is intrinsically *very* hard.
 
@@ -234,23 +244,7 @@ So do what will help you learn best.
 > You should view collaboration as a way to improve your understanding,
 > not as a way to do less work.
 
-<!--Reading:
 
-https://www.reddit.com/r/cscareerquestions/top/?sort=top&t=all
-
-Tim Berner's Lee https://www.w3.org/People/Berners-Lee/
-
-How the internet works: https://thesquareplanet.com/blog/how-the-internet-works/
-
-Web architecture 101: https://engineering.videoblocks.com/web-architecture-101-a3224e126947
-
-OPSEC: https://www.telegraph.co.uk/news/worldnews/northamerica/usa/11229241/FBIs-most-wanted-cyber-criminal-caught-out-by-pet-cat-password.html
-
-reddit jsonp: https://www.reddit.com/r/programming/comments/cxh3a/we_just_added_jsonp_to_reddits_json_api/
-
-jsfiddle
-
-|-->
 
 <!--
 Python libraries:
