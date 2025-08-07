@@ -1,24 +1,21 @@
 # Week 00: Front-end web development
 
-**Monday:** Course Intro
+**Class 3:** HTML
 
-**Wednesday:** HTML
+**Class 4::** Lab/Worktime
 
 1. Prelecture videos:
 
     > **NOTE:**
     > You will not be directly graded on the content of these videos,
     > but they provide useful background information that will make lectures much easier to follow.
+    > Watching them will help you use the classtime for the harder stuff
     > I understand the temptation to not watch them, but even the most technically inclined students will not have seen a lot of the information in these videos.
     >
     > One of the [three virtues of a programmer is laziness](https://thethreevirtues.com/).
     > I am lazy and I hope to train you all to be lazy in this course. 
     > So one of my commitments to you all is that I will never ask you to do busywork.
 
-
-    <!--
-    1. (optional) [Data science expectations vs reality](https://www.youtube.com/watch?v=8LucP1wiX1g)
-    -->
 
     Watch the following videos if you don't already understand the key terms listed below.
 
@@ -62,16 +59,6 @@
     1. [Install Firefox](https://www.mozilla.org/en-US/exp/firefox/new/).
         Chome/Safari/Internet Explorer are not acceptable alternatives for this class.
 
-    1. Install and enable the following Firefox plugins:
-
-        1. [uBlock Origin](https://addons.mozilla.org/en-US/firefox/addon/ublock-origin/) for blocking ads.
-
-            1. uBlock Origin is widely considered by hackers to be the best existing adblocker.
-                Other adblockers either sell your browsing info to advertisers or allow advertisers to pay to have their ads not blocked.
-
-            1. It is possible to use uBlock Origin from chrome, but chrome has some anti-adblocker technology built into it that makes it less effective.
-                If you're interested in technical details about why this is the case, see https://github.com/gorhill/uBlock/wiki/uBlock-Origin-works-best-on-Firefox .
-
     1. Most of out class will take place on GitHub. If you do not have an account,
        then [create one](https://github.com/join).
 
@@ -95,7 +82,7 @@
 The goal of this lab is to publish a simple webpage online so that others can view it.
 This is the first step in completing [project\_00](/project_00_basic_webpage/).
 
-**Prelab Instructions:**
+**Homework:**
 
 Ensure that you have pressed the "watch" button at the top of this webpage.
 Read and follow the instructions in [Issue #320: the meet and greet thread]().
@@ -103,9 +90,6 @@ Read and follow the instructions in [Issue #320: the meet and greet thread]().
 Watch the following videos if you're not already familiar with their contents:
     
 1. [What is github?](https://www.youtube.com/watch?v=w3jLJU7DT5E)
-
-1. (Optional) "Creative Commons" is a type of open source license for non-code (books, webpages, music, images, etc.).
-    Watch [this video explaining Creative Commons licences](https://www.youtube.com/watch?v=4ZvJGV6YF6Y).
 
 1. (Optional) [Quick Google Analytics introduction](https://www.youtube.com/watch?v=RL61v47WyHs)
 
@@ -120,34 +104,11 @@ even if that means just trying random stuff until it works.
    select `I don't know` for `What git client are you using?`.
    This will give you instructions on how to install the GitHub Desktop program for your operating system.
 
-1. [Follow these directions](https://creativecommons.org/choose/) to include a creative commons license on your webpage.
-   You may select any version of the license.
-
-   > **NOTE:**
-   > This requires that you add a snippet of HTML to your webpage.
-   > (I recommend the very bottom, but any location is fine.)
-   > Whenever you modify your webpage,
-   > you will have to go through the process of uploading your files to github using GitHub Desktop again.
-
 1. (Extra Credit) [Follow these instructions](https://support.google.com/analytics/answer/1008015?hl=en) to create a Google Analytics account and add Google Analytics to your webpage.
 
    > **NOTE:**
    > Once again, you must modify your HTML in order to insert the required `<script>` tag into your webpage.
    > Every time you modify your webpage, you must go through the process of uploading with GitHub Desktop.
-
-   > **NOTE:**
-   > Google Analytics does NOT work when you have uBlock Origin activated.
-   > To ensure that Google Analytics is correctly working,
-   > you should temporarily disable uBlock Origin.
-   > Then, you can visit your google analytics page to see that it registers you as a visitor.
-
-1. [Follow these instructions](https://developers.facebook.com/docs/plugins/like-button/) to create a Facebook Like button for your webpage.
-
-   Like with Google Analytics, Facebook Like buttons do not work when the adblock plugins are enabled.
-
-   > **NOTE:**
-   > Don't forget to upload with GitHub Desktop!
-   > Facebook's like button and google analytics will both be broken if your webpage is only served "locally" from your own computer and not from a web server like github.
 
 1. Get at least 5 people to star your webpage's repo on GitHub. I recommend using the class time to trade likes/stars with other students.
 
