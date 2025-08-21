@@ -4,7 +4,7 @@
 
 **Class 4:** Lab/Worktime 
 
-1. Prelecture videos:
+1. Prelecture videos (Homework):
 
     > **NOTE:**
     > You will not be directly graded on the content of these videos,
