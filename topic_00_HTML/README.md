@@ -1,8 +1,8 @@
 # Week 00: Front-end web development
 
-**Class 3:** HTML
+**Class 3:** Introduction to Front-End Development (HTML)
 
-**Class 4::** Lab/Worktime
+**Class 4:** Lab/Worktime 
 
 1. Prelecture videos:
 
