@@ -140,6 +140,9 @@ I have designed this course to be low-stress but **very** challenging.
 - You will **lose the second point immediately** if:
   - You repeat any of the above behaviors within the same class period
   - You argue about the loss of a classwork point
+- You will recieve +1 point if you arrive every day and go above and beyond in participation. You will see in your gradebook if you recieved this point
+ 
+
 
 ### Final Notes
 - I am **reasonable and understanding**—you’re kids and school days are long!
@@ -190,28 +193,6 @@ with one caveat.
 | 60 &le; grade < 63               | D-            |
 | 60 > grade                       | F             |
 
-*CAVEAT:*
-[CHECK BACK LATER] You must complete one of the following "caveat" tasks.
-The purpose of this task is to give you non-technical exposure to the culture surrounding computer science.
-Because the task is non-technical, it will not be graded and will not contribute to the numerical score of your grade.
-But if you do not complete the task, then you will be docked one letter grade (e.g. an A- becomes a B-).
-
-1. (simple option) Watch the following shows/movies about [cracking](http://www.catb.org/~esr/jargon/html/C/cracking.html) and [hacking](http://www.catb.org/~esr/jargon/html/H/hacker.html):
-
-
-    1. War Games (available on [Amazon Prime](https://www.amazon.com/Wargames-Matthew-Broderick/dp/B083FY4CDG/)).
-       This is a classic hacker movie and was quite realistic for what hacking looked like when the movie was released (1983).
-
-    1. CitizenFour (available for free from the [Internet Archive](https://archive.org/details/Citizen.Four2014)).
-       This is a documentary about Edward Snowden and the hacking that the NSA does.
-
-    1. Zero Days - Security Leaks for Sale (available for free on [youtube](https://www.youtube.com/watch?v=4BTTiWkdT8Q))
-        This documentary explores the [grey hat](http://www.catb.org/~esr/jargon/html/B/black-hat.html) world of hackers who develop software to break into computers and sell that software to questionable people... and it's all legal.
-
-1. Readings
-
-See [Issue #] for instructions on how to get credit for completing these readings / viewings.
-
 **Late Work Policy:**
 
 You lose `2**(i-1)` points on every assignment,
@@ -241,67 +222,6 @@ So do what will help you learn best.
 > and you will quickly fall behind.
 > You should view collaboration as a way to improve your understanding,
 > not as a way to do less work.
-
-
-
-<!--
-Python libraries:
-* newspaper3k
-* wikipedia
-* googletrans
-* twilio (SMS) + weather-api
-* geopy
-* langid.py
-* https://github.com/vinta/awesome-python
-Python libraries: newspaper3k, wikipedia, geopy, langid.py, googletrans | |
--->
-
-<!--
-Recursion
-https://realpython.com/python-thinking-recursively/
-
-Install Python: https://learnpythonthehardway.org/python3/ex0.html
-
-Reddit bot: https://www.pythonforengineers.com/build-a-reddit-bot-part-1/
-
-Twitter bot: https://realpython.com/twitter-bot-python-tweepy/
-
-Traceback: https://realpython.com/python-traceback/
-
-Classes: https://realpython.com/inheritance-composition-python/
-
-Unicode Python3: https://realpython.com/python-encodings-guide/
-
-Python tips: https://realpython.com/python-coding-interview-tips
-
-Sorting: https://realpython.com/python-sort/
-
-Command line interface: https://realpython.com/command-line-interfaces-python-argparse/
-
-Basic IO: https://realpython.com/python-input-output/
-
-PEP 20: https://www.python.org/dev/peps/pep-0020/
-PEP 8: https://www.python.org/dev/peps/pep-0008/#a-foolish-consistency-is-the-hobgoblin-of-little-minds
-
-Use `doctest` for automatic grading: https://docs.python.org/3/library/doctest.html
-
-Automate the boring stuff https://automatetheboringstuff.com/chapter2/
-
-Scraping:
-https://www.scrapehero.com/how-to-scrape-competitor-prices-from-ebay-com-using-python-and-lxml/
-https://www.scrapehero.com/xpaths-and-their-relevance-in-web-scraping/
-https://lxml.de/3.2/elementsoup.html
-
-NSA:
-https://www.reuters.com/article/us-usa-surveillance-watchdog-idUSBRE98Q14G20130927
-
-Border agents checking social media:
-https://news.ycombinator.com/item?id=20848359
-
-South Africa surveillance:
-https://news.ycombinator.com/item?id=20861729
-https://www.iafrikan.com/2019/09/02/south-africa-mass-surveillance-spying-undersea-fiber-cables/
--->
 
 ## Accommodations for Disabilities
 
