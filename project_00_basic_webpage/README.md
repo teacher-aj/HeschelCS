@@ -1,4 +1,4 @@
-# Homework 0: Building a webpage
+# Project 0: Building a webpage
 
 
 **Description:** 
@@ -6,11 +6,11 @@ You will build a simple webpage and publish it to the internet.
 You get to choose any topic for the webpage (must be [SFW](https://en.wiktionary.org/wiki/SFW)!),
 and you can earn extra credit by having a large number of people visit your webpage.
 
-**Due:** [INSERT DUE DATE]
+**Due:** [TBD]
 
 **Primary learning objectives:**
 
-1. develop a basic knowledge of HTML, CSS, and JavaScript
+1. develop a basic knowledge of HTML, and CSS
 1. be able to follow directions in introductory tutorials geared for computer programmers
 
 **Secondary learning objectives:**
@@ -42,7 +42,7 @@ If you complete all checkboxes, then you will get 8/8 points.
 
      - [ ] be named `index.html`
 
-     - [ ] *contain a "follow" link to the course webpage (https://github.com/teacher-aj/Heschel-CS-New)
+     - [ ] *contain a "follow" link to the course webpage (https://github.com/teacher-aj/HeschelCS)
 
         > **Note:** See [this tutorial](https://ahrefs.com/blog/nofollow-links/) for details.  I want that sweet, sweet pagerank...
 
