@@ -1,5 +1,5 @@
 ## Heschel Computer Science 2025-2026
-<img width="1000" height="300" alt="Banner" src="https://github.com/user-attachments/assets/cbc6668c-c531-4a8e-b74d-e1ed77551438" />
+<img width="700" height="300" alt="Banner" src="https://github.com/user-attachments/assets/cbc6668c-c531-4a8e-b74d-e1ed77551438" />
 
 
 Important links:
