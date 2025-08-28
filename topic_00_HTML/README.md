@@ -58,9 +58,6 @@ Welcome to our first week of content!
         The only difference is that VSCode contains additional tracking plugins that allows Microsoft to monitor what you do and run code on your computer,
         which.
 
-    1. [Install Firefox](https://www.mozilla.org/en-US/exp/firefox/new/).
-        Chome/Safari/Internet Explorer are not acceptable alternatives for this class.
-
     1. Most of out class will take place on GitHub. If you do not have an account,
        then [create one](https://github.com/join).
 
