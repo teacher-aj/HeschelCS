@@ -1,6 +1,6 @@
 # Week 00: Front-end web development
 
-Welcome to our first week of content!
+Welcome to our first week of content! Wepages are i
 
 **Class 2:** Introduction to Front-End Development (HTML)
 
