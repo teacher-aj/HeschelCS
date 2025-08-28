@@ -97,7 +97,7 @@ All of our references are free.
 
 | category                      | points/assignment         | *approximate* percentage |
 | ----------------------------- | ------------------------- | ---- |
-| Classwork (daily)             | `2**1` |                  | 30%  |
+| Classwork (daily)             | `2**1`                    | 30%  |
 | quizzes (weekly)              | `2**2` - `2**3`           | 30%  |
 | projects (every 2-3 weeks)    | `2**3` - `2**6`           | 40%  |
 
