@@ -56,8 +56,6 @@ about me:
 1. Understand the basics of many programming languages:
     1. HTML
     1. CSS
-    1. JavaScript
-    1. SQL
     1. and **Python** <-- this is the main focus of the course
 
 **Secondary Learning Objectives:**
