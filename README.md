@@ -1,5 +1,6 @@
 ## Heschel Computer Science 2025-2026
 
+
 Important links:
 
 1. Shay Howe's [HTML & CSS](https://learn.shayhowe.com/html-css/) book
@@ -15,14 +16,14 @@ Important links:
 | Email | aj.holzer@heschel.org |
 | Office |Middle School |
 | Office Hours | See [Issue #2] (https://github.com/teacher-aj/CSHeschel-new/issues/2) |
-| Zoom | See [TO DO] |
 
 about me:
 1. Grew up in Highland Park IL (~30 Minutes north of Chicago)
 1. I studied neuroscience and computer science at a small college in California (a little more than double the size of Heschel Highschool)
 1. I've worked at a lab in Israel, researching hyperbaric oxygen therapy. This work was mentioned in [Joe Rogan Podcast](https://www.youtube.com/watch?v=9Bon5c5DEI4) and [CBS](https://www.cbsnews.com/news/promising-treatment-for-ptsd-hyperbaric-oxygen-therapy/) 
 1. I taught 7th grade science last year (I teach it this year as well!)
-1. I visited five national parks this summer!
+1. I visited five national parks this summer! But my favorite place I visitied this year was Big Sur. 
+![IMG_5121](https://github.com/user-attachments/assets/6956a677-1a20-4497-90ba-27f072f7f327)
 
 ## About the Course
 
@@ -35,13 +36,14 @@ about me:
                 (And learn what they can/can't do.)
             1. Count the number of computers in North Korea connected to the internet.
             1. Build your own Twitter clone.
+            2. Get updates on business news in the world of technology
         1. This course is especially designed to connect computer science to other subjects like
             1. economics,
             1. government,
-            1. literature, and
+            1. business, and
             1. science.
                
-     But if you end up really liking it, I hope it sparks a greater interest in computer science in general. But even if you don't, I hope it can give you some practicial skills to use in the field that you may be interested in.      
+     But if you end up really liking it, I hope it sparks a greater interest in computer science in general. But even if you don't, I hope it can give you some practicial skills to use in the field that you may be interested in. I hope it will help you in your classes, and in your application to college.     
 
 **Primary Learning Objectives:**
 
@@ -97,8 +99,8 @@ All of our references are free.
 | category                      | points/assignment         | *approximate* percentage |
 | ----------------------------- | ------------------------- | ---- |
 | Classwork (daily)             | `2**1` |                  | 30%  |
-| quizzes (weekly)              | `2**2` - `2**3`           | 35%  |
-| projects (every 2-3 weeks)    | `2**3` - `2**6`           | 35%  |
+| quizzes (weekly)              | `2**2` - `2**3`           | 30%  |
+| projects (every 2-3 weeks)    | `2**3` - `2**6`           | 40%  |
 
 I have designed this course to be low-stress but **very** challenging.
 
@@ -116,6 +118,18 @@ I have designed this course to be low-stress but **very** challenging.
     1. Projects/homework will have TONs of extra credit opportunities.
 
         Lots of "choose your own adventure" style assignments where you get to decide which tasks you want to complete.
+       
+1. The material is intrinsically *very* hard.
+
+    1.Probably harder than most other elective options
+    1. That's why CS/DS majors get paid so much money... there's not many people willing to work hard enough to master these concepts.
+    1. The key to success is make the most in-person instruction time. If I have to worry about your behavior in class you will likely worry about your grade
+
+        Historically:
+        1. To achieve an A, I estimate that a student will have to
+               - recieve maximum classwork points 95%+ of classes
+               - spend about 2 hours per week on content outside of class
+               - Use class time efficiently
 
 ## Classwork Policy (30% of Course Grade)
 
@@ -143,26 +157,15 @@ I have designed this course to be low-stress but **very** challenging.
 - You will recieve +1 point if you arrive every day and go above and beyond in participation. You will see in your gradebook if you recieved this point
  
 
-
 ### Final Notes
 - I am **reasonable and understanding**—you’re kids and school days are long!
 - If you ever need to take a break during class, **just let me know**.
-- If you have any questions or concerns about this policy, **please come talk to me**.
+- If you have any questions or concerns about this policy, please come talk to me.
 **If you lose classwork points for a majority of class periods (50%+ at 1 or less) your grade will be capped at a C**
 
-1. The material is intrinsically *very* hard.
 
-    1.Probably harder than most other elective options
-    1. That's why CS/DS majors get paid so much money... there's not many people willing to work hard enough to master these concepts.
-    1. The key to success is make the most in-person instruction time. If I have to worry about your behavior in class you will likely worry about your grade
 
-        Historically:
-        1. To achieve an A, I estimate that a student will have to
-               - recieve maximum classwork points 95%+ of classes
-               - spend about 2 hours per week on content outside of class
-               - Use class time efficiently
-
-1. The projects are designed to be fun, real-world projects:
+1. The projects are designed to be fun, real-world projects. Here are the current plans for projects over the course of the semester:
 
     |     | Project                 | Difficulty    |
     | --- | ----------------------- | ------------- |
