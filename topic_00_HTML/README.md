@@ -53,13 +53,12 @@ Welcome to our first week of content! Wepages are i
     > All of the software we use is open source, so you can freely download it on your own machine and keep access to it after the semester/graduation.
     > If you change computers, you will have to reinstall the needed software.
 
-    1. [Install VSCodium](https://vscodium.com/).
-        VSCodium is the open source version of [Microsoft's VSCode](https://code.visualstudio.com/Download).
+    1. [Install Microsoft's VSCode](https://code.visualstudio.com/Download).
         The only difference is that VSCode contains additional tracking plugins that allows Microsoft to monitor what you do and run code on your computer,
         which.
 
     1. Most of out class will take place on GitHub. If you do not have an account,
-       then [create one](https://github.com/join).
+       then. (Update 9/4: Hold off on this for now) [create one](https://github.com/join).
 
        You may choose any username that you like.
        Job/internship applications commonly ask for GitHub profiles,
