@@ -5,18 +5,16 @@ Welcome to our first week of content!
 **Class A:** Setting up our workflow/ and Introduction to Front-End Development (HTML)
 
 Do the following:
-    > **NOTE:**
-    >
-    > Throughout this course we will be installing lots of software.
-    > You are welcome to use your personal macbook or PC (if you have computer issues come see me and we can figure something out)
-    > All of the software we use is open source, so you can freely download it on your own machine and keep access to it after the semester/graduation.
-    > If you change computers, you will have to reinstall the needed software.
+    **NOTE:**
+    - Throughout this course we will be installing lots of software.
+    - All of the software we use is open source, so you can freely download it on your own machine and keep access to it after the semester/graduation.
+    - If you change computers, you will have to reinstall the needed software.
 
     1. [Install Microsoft's VSCode](https://code.visualstudio.com/Download).
         The only difference is that VSCode contains additional tracking plugins that allows Microsoft to monitor what you do and run code on your computer,
         which.
 
-    1. Most of out class will take place on GitHub. If you do not have an account,
+    2. Most of out class will take place on GitHub. If you do not have an account,
        then.[create one](https://github.com/join).
 
        You may choose any username that you like.
