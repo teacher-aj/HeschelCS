@@ -1,17 +1,39 @@
-# Week 00: Front-end web development
+# Week 01: Front-end web development
 
-Welcome to our first week of content! Wepages are i
+Welcome to our first week of content! 
 
-**Class 2:** Introduction to Front-End Development (HTML)
+**Class A:** Setting up our workflow/ and Introduction to Front-End Development (HTML)
 
-**Class 3:** Lab/Worktime 
+Do the following:
+    > **NOTE:**
+    >
+    > Throughout this course we will be installing lots of software.
+    > You are welcome to use your personal macbook or PC (if you have computer issues come see me and we can figure something out)
+    > All of the software we use is open source, so you can freely download it on your own machine and keep access to it after the semester/graduation.
+    > If you change computers, you will have to reinstall the needed software.
 
-1. Prelecture videos (Homework):
+    1. [Install Microsoft's VSCode](https://code.visualstudio.com/Download).
+        The only difference is that VSCode contains additional tracking plugins that allows Microsoft to monitor what you do and run code on your computer,
+        which.
+
+    1. Most of out class will take place on GitHub. If you do not have an account,
+       then.[create one](https://github.com/join).
+
+       You may choose any username that you like.
+       Job/internship applications commonly ask for GitHub profiles,
+       so you should pick something professional that you would want to share with them.
+
+       When prompted for the account type, choose the free account option.
+    
+    Ensure that you have pressed the "watch" button at the top of this webpage.
+    Read and follow the instructions in [Issue #320: the meet and greet thread]().
+
+
+Watch the following videos:
 
     > **NOTE:**
     > You will not be directly graded on the content of these videos,
     > but they provide useful background information that will make lectures much easier to follow.
-    > Watching them will help you use the classtime for the harder stuff
     > I understand the temptation to not watch them, but even the most technically inclined students will not have seen a lot of the information in these videos.
     >
     > One of the [three virtues of a programmer is laziness](https://thethreevirtues.com/).
@@ -44,54 +66,18 @@ Welcome to our first week of content! Wepages are i
         * Dynamic websites
         * Single page apps
 
-1. Prelecture tasks:
 
-    > **NOTE:**
-    >
-    > Throughout this course we will be installing lots of software.
-    > You are welcome to use your personal macbook or PC (if you have computer issues come see me and we can figure something out)
-    > All of the software we use is open source, so you can freely download it on your own machine and keep access to it after the semester/graduation.
-    > If you change computers, you will have to reinstall the needed software.
 
-    1. [Install Microsoft's VSCode](https://code.visualstudio.com/Download).
-        The only difference is that VSCode contains additional tracking plugins that allows Microsoft to monitor what you do and run code on your computer,
-        which.
 
-    1. Most of out class will take place on GitHub. If you do not have an account,
-       then. (Update 9/4: Hold off on this for now) [create one](https://github.com/join).
-
-       You may choose any username that you like.
-       Job/internship applications commonly ask for GitHub profiles,
-       so you should pick something professional that you would want to share with them.
-
-       When prompted for the account type, choose the free account option.
-
-1. Cheatsheets
-
-    In this class, you are encouraged to use cheatsheets for all labs, projects, and quizzes.
-
-    You can find links to the electronic versions of the cheatsheets in this project folder.
-
-    Quizzes will be open note.
-
-## Lab
-
-**tl;dr**
-The goal of this lab is to publish a simple webpage online so that others can view it.
-This is the first step in completing [project\_00](/project_00_basic_webpage/).
-
-**Homework:**
-
-Ensure that you have pressed the "watch" button at the top of this webpage.
-Read and follow the instructions in [Issue #320: the meet and greet thread]().
-
-Watch the following videos if you're not already familiar with their contents:
-    
-1. [What is github?](https://www.youtube.com/watch?v=w3jLJU7DT5E)
-
-1. (Optional) [Quick Google Analytics introduction](https://www.youtube.com/watch?v=RL61v47WyHs)
+**Class B:** Lab/Worktime 
 
 **Instructions:**
+
+## Begin Project 00
+
+**tl;dr**
+The goal of this project is to create a webpage using HTML and CSS. In class this week we will be completing the first step of this project, which is creating a simple webpage that others can view.
+This is the first step in completing [project\_00](/project_00_basic_webpage/).
 
 The lectures/videos have not explicitly covered how to do most of the tasks in this lab.
 The main purpose of this lab is to get you comfortable trying to read and figure out documentation...
@@ -117,3 +103,18 @@ even if that means just trying random stuff until it works.
    > So now would also be a good time to trade these links (although it's not explicitly required for the lab).
 
 1. Upload the url to your completed webpage to schoology.
+
+Watch the following videos if you're not already familiar with their contents:
+    
+1. [What is github?](https://www.youtube.com/watch?v=w3jLJU7DT5E)
+
+1. (Optional) [Quick Google Analytics introduction](https://www.youtube.com/watch?v=RL61v47WyHs)
+
+**Class C:**
+Continued lab time
+
+
+
+
+
+
