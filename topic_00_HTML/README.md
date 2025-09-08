@@ -23,7 +23,7 @@ Welcome to our first week of content!
 
 3. Press the **Watch** button at the top of this webpage.  
 
-4. Read and follow instructions in **[Issue #320: Meet and Greet Thread]()**.  
+4. Read and follow instructions in **[Issue #320: Meet and Greet Thread](https://github.com/teacher-aj/HeschelCS/issues/1)**.  
 
 ---
 
