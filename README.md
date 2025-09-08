@@ -183,8 +183,8 @@ with one caveat.
 
 | If your grade satisfies          | then you earn |
 | -------------------------------- | ------------- |
-| 95 &le; grade                    | A             |
-| 90 &le; grade < 95               | A-            |
+| 94 &le; grade                    | A             |
+| 90 &le; grade < 94               | A-            |
 | 87 &le; grade < 90               | B+            |
 | 83 &le; grade < 87               | B             |
 | 80 &le; grade < 83               | B-            |
