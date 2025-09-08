@@ -25,7 +25,26 @@ Welcome to our first week of content!
 
 4. Read and follow instructions in **[Issue #320: Meet and Greet Thread]()**.
 
-5. Complete this activity tointroduce you to the structure of an HTML document. By the end, you will have created and opened your very first webpage in a browser.  
+### 5. Watch the following videos:
+
+> **NOTE:**  
+> You will not be directly graded on these, but they will make lectures easier to follow.  
+> Even if you’re technically inclined, much of this material may be new.  
+> 
+> One of the [three virtues of a programmer is laziness](https://thethreevirtues.com/).  
+> I will never ask you to do busywork.
+
+**If you don’t already understand the terms below, watch these:**
+
+1. [How the Web Works – The Big Picture](https://www.youtube.com/watch?v=hJHvdBlSxug)  
+   **Key terms:** Browser, Server, URL, Domain, IP Address, DNS, HTML, CSS, JavaScript, HTTP, HTTPS  
+
+2. [Three Types of Web Development](https://www.youtube.com/watch?v=Kg0Q_YaQ3Gk)  
+   **Key terms:** Static websites, Static site generator, Dynamic websites, Single page apps
+
+3. [What is Github?](https://www.youtube.com/watch?v=pBy1zgt0XPc)
+
+## 6. Complete this activity tointroduce you to the structure of an HTML document. By the end, you will have created and opened your very first webpage in a browser.  
 
   1. Open VS Code 
   
@@ -50,11 +69,9 @@ Welcome to our first week of content!
   
   **Discuss the following with your partner**:
   
-  1. What do the <html>, <head>, and <body> tags mean?
+  1. "What do the <html>, <head>, and <body> tags mean?"
   
-  2. What is the difference between <h1> and <p>?
-  
-  3. Change the text inside the <h1> and <p> tags to make it your own.
+  2. "What is the difference between <h1> and <p>?"
   
   **Explore further if you have time**:
   
@@ -64,27 +81,6 @@ Welcome to our first week of content!
   Use W3Schools
   Visit the W3Schools HTML Tutorial
    look up what each tag means, and experiment by adding new elements (like another heading or a list) to your page.
-
----
-
-### Watch the following videos:
-
-> **NOTE:**  
-> You will not be directly graded on these, but they will make lectures easier to follow.  
-> Even if you’re technically inclined, much of this material may be new.  
-> 
-> One of the [three virtues of a programmer is laziness](https://thethreevirtues.com/).  
-> I will never ask you to do busywork.
-
-**If you don’t already understand the terms below, watch these:**
-
-1. [How the Web Works – The Big Picture](https://www.youtube.com/watch?v=hJHvdBlSxug)  
-   **Key terms:** Browser, Server, URL, Domain, IP Address, DNS, HTML, CSS, JavaScript, HTTP, HTTPS  
-
-2. [Three Types of Web Development](https://www.youtube.com/watch?v=Kg0Q_YaQ3Gk)  
-   **Key terms:** Static websites, Static site generator, Dynamic websites, Single page apps
-
-3. [What is Github?](https://www.youtube.com/watch?v=pBy1zgt0XPc)
 
 
 ---
