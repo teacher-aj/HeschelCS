@@ -44,7 +44,7 @@ Welcome to our first week of content!
 2. [Three Types of Web Development](https://www.youtube.com/watch?v=Kg0Q_YaQ3Gk)  
    **Key terms:** Static websites, Static site generator, Dynamic websites, Single page apps  
 
-3. [What is GitHub?](https://www.youtube.com/watch?v=pBy1zgt0XPc)  
+3. [What is GitHub?]([https://www.youtube.com/watch?v=pBy1zgt0XPc])  
 
 ---
 
@@ -117,7 +117,7 @@ The lectures/videos won’t cover everything for this lab. The main goal is to g
    - In the step marked `?` (between step 1 and step 2), select **“I don’t know”** for *What git client are you using?*.  
    - This will guide you to install **GitHub Desktop** for your OS.  
 
-2. (**Extra Credit**) [Set up Google Analytics](https://support.google.com/analytics/answer/1008015?hl=en) and add it to your page.  
+2. [Set up Google Analytics](https://support.google.com/analytics/answer/1008015?hl=en) and add it to your page.  
    > **NOTE:**  
    > You must insert a `<script>` tag into your HTML.  
    > Each time you update your page, you’ll need to re-upload with GitHub Desktop.  
@@ -135,7 +135,7 @@ The lectures/videos won’t cover everything for this lab. The main goal is to g
 ### Additional Videos:
 
 1. [What is GitHub?](https://www.youtube.com/watch?v=w3jLJU7DT5E)  
-2. (Optional) [Quick Google Analytics Intro](https://www.youtube.com/watch?v=RL61v47WyHs)
+2. [Quick Google Analytics Intro](https://www.youtube.com/watch?v=RL61v47WyHs)
 
 ---
 
