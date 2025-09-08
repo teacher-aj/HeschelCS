@@ -14,7 +14,7 @@ Welcome to our first week of content!
 > - If you change computers, you will need to reinstall the software.  
 
 1. [Install VS Code](https://code.visualstudio.com/Download).  
-   *Note: VS Code includes tracking plugins that allow Microsoft to monitor usage.*
+   *Note: VS Code includes tracking plugins that allow Microsoft to monitor usage.*  
 
 2. Most of our class will take place on GitHub. If you don’t already have an account, [create one here](https://github.com/join).  
    - Choose any username you like.  
@@ -23,65 +23,80 @@ Welcome to our first week of content!
 
 3. Press the **Watch** button at the top of this webpage.  
 
-4. Read and follow instructions in **[Issue #320: Meet and Greet Thread]()**.
+4. Read and follow instructions in **[Issue #320: Meet and Greet Thread]()**.  
 
-### 5. Watch the following videos:
+---
+
+### Watch the following videos:
 
 > **NOTE:**  
 > You will not be directly graded on these, but they will make lectures easier to follow.  
 > Even if you’re technically inclined, much of this material may be new.  
 > 
 > One of the [three virtues of a programmer is laziness](https://thethreevirtues.com/).  
-> I will never ask you to do busywork.
+> I will never ask you to do busywork.  
 
-**If you don’t already understand the terms below, watch these:**
+**If you don’t already understand the terms below, watch these:**  
 
 1. [How the Web Works – The Big Picture](https://www.youtube.com/watch?v=hJHvdBlSxug)  
    **Key terms:** Browser, Server, URL, Domain, IP Address, DNS, HTML, CSS, JavaScript, HTTP, HTTPS  
 
 2. [Three Types of Web Development](https://www.youtube.com/watch?v=Kg0Q_YaQ3Gk)  
-   **Key terms:** Static websites, Static site generator, Dynamic websites, Single page apps
+   **Key terms:** Static websites, Static site generator, Dynamic websites, Single page apps  
 
-3. [What is Github?](https://www.youtube.com/watch?v=pBy1zgt0XPc)
+3. [What is GitHub?](https://www.youtube.com/watch?v=pBy1zgt0XPc)  
 
-## 6. Complete this activity tointroduce you to the structure of an HTML document. By the end, you will have created and opened your very first webpage in a browser.  
+---
 
-  1. Open VS Code 
-  
-  2. Copy the following code into a new file:  
-  
-     ```html
-     <!DOCTYPE html>
-     <html>
-     <head>
-       <title>My First Webpage</title>
-     </head>
-     <body>
-       <h1>Hello, World!</h1>
-       <p>This is my very first webpage.</p>
-     </body>
-     </html>
-  3. Save the file as index.html.
-  
-  4. Open the file in a web browser (double-click the file or right-click → “Open with” → choose your browser).
-  
-  5. You should now see your first webpage.
-  
-  **Discuss the following with your partner**:
-  
-  1. "What do the <html>, <head>, and <body> tags mean?"
-  
-  2. "What is the difference between <h1> and <p>?"
-  
-  **Explore further if you have time**:
-  
-  Inspect a website
-  Right-click on any webpage in your browser and choose Inspect (or Inspect Element). Look at how the HTML structure of a professional site is similar to the one you just wrote. Try finding headings, paragraphs, or images in the code.
-  
-  Use W3Schools
-  Visit the W3Schools HTML Tutorial
-   look up what each tag means, and experiment by adding new elements (like another heading or a list) to your page.
+### Activity: Build Your First Webpage
 
+> **NOTE:**  
+> This activity will introduce you to the structure of an HTML document.  
+> By the end, you will have created and opened your very first webpage in a browser.  
+
+1. Open VS Code.  
+
+2. Copy the following code into a new file:  
+
+        <!DOCTYPE html>
+        <html>
+        <head>
+          <title>My First Webpage</title>
+        </head>
+        <body>
+          <h1>Hello, World!</h1>
+          <p>This is my very first webpage.</p>
+        </body>
+        </html>
+
+3. Save the file as `index.html`.  
+
+4. Open the file in a web browser (double-click the file or right-click → “Open with” → choose your browser).  
+
+5. You should now see your first webpage.  
+
+---
+
+### Discuss the following with your partner:
+
+> **NOTE:**  
+> These questions are meant to help you reflect on what each part of your code is doing.  
+
+1. What do the `<html>`, `<head>`, and `<body>` tags mean?  
+2. What is the difference between `<h1>` and `<p>`?  
+
+---
+
+### Explore further if you have time:
+
+> **NOTE:**  
+> The following activities are optional extensions if you finish early. They will help you connect what you just learned to real-world websites.  
+
+1. **Inspect a website**  
+   Right-click on any webpage in your browser and choose **Inspect** (or **Inspect Element**). Look at how the HTML structure of a professional site is similar to the one you just wrote. Try finding headings, paragraphs, or images in the code.  
+
+2. **Use W3Schools**  
+   Visit the [W3Schools HTML Tutorial](https://www.w3schools.com/html/) to look up what each tag means, and experiment by adding new elements (like another heading or a list) to your page.  
 
 ---
 
