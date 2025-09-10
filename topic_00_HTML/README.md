@@ -77,41 +77,36 @@ Welcome to our first week of content!
 
 ---
 
+## Class B: Beginning HTML
+
 ### Discuss the following with your partner:
 
 > **NOTE:**  
-> These questions are meant to help you reflect on what each part of your code is doing.  
+> These questions are meant to help you reflect on what each part of your code is doing. After discussing, email me your answer. You may send me one email per group, just make sure to cc your partner.
 
 1. What do the `<html>`, `<head>`, and `<body>` tags mean?  
 2. What is the difference between `<h1>` and `<p>`?  
 
 ---
 
-### Explore further if you have time:
-
-> **NOTE:**  
-> The following activities are optional extensions if you finish early. They will help you connect what you just learned to real-world websites.  
+### Explore further:
 
 1. **Inspect a website**  
    Right-click on any webpage in your browser and choose **Inspect** (or **Inspect Element**). Look at how the HTML structure of a professional site is similar to the one you just wrote. Try finding headings, paragraphs, or images in the code.  
 
 2. **Use W3Schools**  
-   Visit the [W3Schools HTML Tutorial](https://www.w3schools.com/html/) to look up what each tag means, and experiment by adding new elements (like another heading or a list) to your page.  
-
----
-
-## Class B: Lab / Worktime  
+   Visit the [W3Schools HTML Tutorial](https://www.w3schools.com/html/) to look up what each tag means, and experiment by adding new elements (like another heading or a list) to your page.   
 
 ### Begin Project 00
 
 **tl;dr**: Create a webpage using HTML and CSS. This week you will complete the first step: making a simple webpage others can view.  
-This is the start of [Project 00](/project_00_basic_webpage/).
+With the remainder of the time that you have, you will be beginning our first major project of the year [Project 00](/project_00_basic_webpage/).
 
 The lectures/videos won’t cover everything for this lab. The main goal is to get comfortable with documentation—even if that means trial and error.  
 
 ---
 
-### Steps:
+### Start with the following steps in class:
 
 1. [Follow these directions](https://pages.github.com/) to create a GitHub Pages site.  
    - In the step marked `?` (between step 1 and step 2), select **“I don’t know”** for *What git client are you using?*.  
@@ -120,7 +115,8 @@ The lectures/videos won’t cover everything for this lab. The main goal is to g
 2. [Set up Google Analytics](https://support.google.com/analytics/answer/1008015?hl=en) and add it to your page.  
    > **NOTE:**  
    > You must insert a `<script>` tag into your HTML.  
-   > Each time you update your page, you’ll need to re-upload with GitHub Desktop.  
+   > Each time you update your page, you’ll need to re-upload with GitHub Desktop.
+   > Quick Google Analytics Intro](https://www.youtube.com/watch?v=RL61v47WyHs)
 
 3. Get at least **5 people** to star your repo on GitHub.  
    - Use class time to trade stars/likes with other students.  
@@ -129,13 +125,6 @@ The lectures/videos won’t cover everything for this lab. The main goal is to g
    > Later, you’ll also need external links to your page. Now is a good time to start trading links (not required for this lab).  
 
 4. Upload your webpage URL to **Schoology**.
-
----
-
-### Additional Videos:
-
-1. [What is GitHub?](https://www.youtube.com/watch?v=w3jLJU7DT5E)  
-2. [Quick Google Analytics Intro](https://www.youtube.com/watch?v=RL61v47WyHs)
 
 ---
 
