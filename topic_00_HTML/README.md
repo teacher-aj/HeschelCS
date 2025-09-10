@@ -79,7 +79,7 @@ Welcome to our first week of content!
 
 ## **Class B: Beginning HTML
 
-### Discuss the following with your partner:
+#### 1. Discuss the following with your partner:
 
 > **NOTE:**  
 > These questions are meant to help you reflect on what each part of your code is doing. After discussing, email me your answer. You may send me one email per group, just make sure to cc your partner.
@@ -89,7 +89,7 @@ Welcome to our first week of content!
 
 ---
 
-### Explore further:
+#### 2. Explore further:
 
 1. **Inspect a website**  
    Right-click on any webpage in your browser and choose **Inspect** (or **Inspect Element**). Look at how the HTML structure of a professional site is similar to the one you just wrote. Try finding headings, paragraphs, or images in the code.  
@@ -97,14 +97,14 @@ Welcome to our first week of content!
 2. **Use W3Schools**  
    Visit the [W3Schools HTML Tutorial](https://www.w3schools.com/html/) to look up what each tag means, and experiment by adding new elements (like another heading or a list) to your page.   
 
-### Begin Project 00
+#### 3. Begin Project 00
 
 **tl;dr**: Create a webpage using HTML and CSS. This week you will complete the first step: making a simple webpage others can view.  
 With the remainder of the time that you have, you will be beginning our first major project of the year [Project 00](/project_00_basic_webpage/).
 
 The lectures/videos won’t cover everything for this lab. The main goal is to get comfortable with documentation—even if that means trial and error.  
 
-#### Start with the following steps in class:
+##### Start with the following steps in class:
 
 1. [Follow these directions](https://pages.github.com/) to create a GitHub Pages site.  
    -In this step you are essentially uploading the website that you made, to be hosted on github.
