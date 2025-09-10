@@ -4,7 +4,7 @@ Welcome to our first week of content!
 
 ---
 
-## Class A: Workflow Setup & Intro to Front-End (HTML)
+## **Class A: Workflow Setup & Intro to Front-End (HTML)
 
 ### Do the following:
 
@@ -77,7 +77,7 @@ Welcome to our first week of content!
 
 ---
 
-## Class B: Beginning HTML
+## **Class B: Beginning HTML
 
 ### Discuss the following with your partner:
 
