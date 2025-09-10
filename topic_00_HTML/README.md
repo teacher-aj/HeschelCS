@@ -44,7 +44,7 @@ Welcome to our first week of content!
 2. [Three Types of Web Development](https://www.youtube.com/watch?v=Kg0Q_YaQ3Gk)  
    **Key terms:** Static websites, Static site generator, Dynamic websites, Single page apps  
 
-3. [What is GitHub?]([https://www.youtube.com/watch?v=pBy1zgt0XPc])  
+3. [What is GitHub?](https://www.youtube.com/watch?v=pBy1zgt0XPc)
 
 ---
 
