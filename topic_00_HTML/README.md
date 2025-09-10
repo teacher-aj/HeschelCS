@@ -104,11 +104,10 @@ With the remainder of the time that you have, you will be beginning our first ma
 
 The lectures/videos won’t cover everything for this lab. The main goal is to get comfortable with documentation—even if that means trial and error.  
 
----
-
-### Start with the following steps in class:
+#### Start with the following steps in class:
 
 1. [Follow these directions](https://pages.github.com/) to create a GitHub Pages site.  
+   -In this step you are essentially uploading the website that you made, to be hosted on github.
    - In the step marked `?` (between step 1 and step 2), select **“I don’t know”** for *What git client are you using?*.  
    - This will guide you to install **GitHub Desktop** for your OS.  
 
