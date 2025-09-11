@@ -91,11 +91,8 @@ Welcome to our first week of content!
 
 #### 2. Explore further:
 
-1. **Inspect a website**  
-   Right-click on any webpage in your browser and choose **Inspect** (or **Inspect Element**). Look at how the HTML structure of a professional site is similar to the one you just wrote. Try finding headings, paragraphs, or images in the code.  
-
-2. **Use W3Schools**  
-   Visit the [W3Schools HTML Tutorial](https://www.w3schools.com/html/) to look up what each tag means, and experiment by adding new elements (like another heading or a list) to your page.   
+1. **Use W3Schools**  
+   Visit the [W3Schools HTML Tutorial](https://www.w3schools.com/html/) to look up several tags mean, and experiment by adding new elements to your webpage (like another heading or a list) to your page.   
 
 #### 3. Begin Project 00
 
