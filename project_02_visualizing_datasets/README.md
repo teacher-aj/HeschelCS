@@ -6,7 +6,7 @@
 You will perform a simple data visualization on a dataset of your choice and create a webpage that describes the results.
 
 **Due:** 
-Sunday, 30 March, midnight
+
 
 **Learning objectives:**
 
