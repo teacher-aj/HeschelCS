@@ -4,7 +4,7 @@ Welcome to our first week of content!
 
 ---
 
-## **Class A: Workflow Setup & Intro to Front-End (HTML)
+## **Class A**: Workflow Setup & Intro to Front-End (HTML)
 
 ### Do the following:
 
@@ -77,7 +77,7 @@ Welcome to our first week of content!
 
 ---
 
-## **Class B: Beginning HTML
+## **Class B**: Beginning HTML
 
 #### 1. Discuss the following with your partner:
 
@@ -126,11 +126,9 @@ The lectures/videos won’t cover everything for this lab. The main goal is to g
 4. Upload your webpage URL to **Schoology**.
 
 ---
+# Week 02: HTML Continued
 
-## Class C:  
-Continue to work on the lab
-
-
+Welcome back. The goal of this week is to work on a bulk of project_00. I will be gone on a 7th grade trip on Monday. Expect to be challenged. Rely on your resources both in person and online!
 
 
 
