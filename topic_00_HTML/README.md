@@ -128,7 +128,7 @@ The lectures/videos won’t cover everything for this lab. The main goal is to g
 ---
 
 ## Class C:  
-Continued lab time
+Continue to work on the lab
 
 
 
