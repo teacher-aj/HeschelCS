@@ -94,16 +94,10 @@ Welcome to our first week of content!
 1. **Use W3Schools**  
    Visit the [W3Schools HTML Tutorial](https://www.w3schools.com/html/) to look up several tags mean, and experiment by adding new elements to your webpage (like another heading or a list) to your page.   
 
-#### 3. Begin Project 00
 
-**tl;dr**: Create a webpage using HTML and CSS. This week you will complete the first step: making a simple webpage others can view.  
-With the remainder of the time that you have, you will be beginning our first major project of the year [Project 00](/project_00_basic_webpage/).
+##### 4. Setup the basic framework for your first website:
 
-The lectures/videos won’t cover everything for this lab. The main goal is to get comfortable with documentation—even if that means trial and error.  
-
-##### Start with the following steps in class:
-
-1. [Follow these directions](https://pages.github.com/) to create a GitHub Pages site.  
+1. [Follow these directions]([https://pages.github.com/](https://docs.github.com/en/pages/quickstart)) to create a GitHub Pages site.  
    -In this step you are essentially uploading the website that you made, to be hosted on github.
    - In the step marked `?` (between step 1 and step 2), select **“I don’t know”** for *What git client are you using?*.  
    - This will guide you to install **GitHub Desktop** for your OS.  
@@ -127,6 +121,22 @@ The lectures/videos won’t cover everything for this lab. The main goal is to g
 
 Welcome back. The goal of this week is to work on a bulk of project_00. I will be gone on a 7th grade trip on Monday. Expect to be challenged. Rely on your resources both in person and online!
 
+## **Class A**: Finishing up preliminary tasks and working on your website
 
+#### 1. Check the tasks from the previous weeks
 
+  - Before beginning the tasks for class today I would reccomend taking a look at the tasks from the prior week. Especially tasks with designated actions (i.e. email me)
+  - Before beginning this classes tasks you should have the following:
+    - a github account (reply to the meet and greet)
+    - a webpage hosted on that github account
+      - I updated the directions link for github pages, so if you were having trouble with this I would try again
+    - a basic comfortability with HTML (What HTML stands for and what it’s used for, Basic document structure (<!DOCTYPE html>, <html>, <head>, <body>), Headings (<h1>–<h6>), Paragraphs
+      - If you do not, spend some time on w3 schools or talk with your partner through a webpag
+
+#### 2. Begin Project 00
+
+With the remainder of the time that you have, you will be working on our first major project of the year [Project 00](/project_00_basic_webpage/).
+
+The lectures/videos won’t cover everything for this lab. The main goal is to get comfortable with documentation—even if that means trial and error.   
+      
 
