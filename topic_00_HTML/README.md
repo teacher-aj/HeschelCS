@@ -125,18 +125,25 @@ Welcome back. The goal of this week is to work on a bulk of project_00. I will b
 
 #### 1. Check the tasks from the previous weeks
 
-  - Before beginning the tasks for class today I would reccomend taking a look at the tasks from the prior week. Especially tasks with designated actions (i.e. email me)
-  - Before beginning this classes tasks you should have the following:
-    - a github account (reply to the meet and greet)
-    - a webpage hosted on that github account
-      - I updated the directions link for github pages, so if you were having trouble with this I would try again
-    - a basic comfortability with HTML (What HTML stands for and what it’s used for, Basic document structure (<!-- <!DOCTYPE html>, <html>, <head>, <body>), Headings (<h1>–<h6>'') -->, Paragraphs
-      - If you do not, spend some time on w3 schools or talk with your partner through a webpag
+- Before beginning the tasks for class today, I would recommend taking a look at the tasks from the prior week — especially tasks with designated actions (i.e. email me).
+- Before beginning this class’s tasks you should have the following:
+  - A GitHub account (reply to the meet and greet)
+  - A webpage hosted on that GitHub account  
+    - I updated the directions link for GitHub Pages, so if you were having trouble with this I would try again.
+  - A basic comfortability with HTML:
+    - What HTML stands for and what it’s used for
+    - Basic document structure:  
+      `<!DOCTYPE html>`, `<html>`, `<head>`, `<body>`
+    - Headings: `<h1>`–`<h6>`
+    - Paragraphs: `<p>`
+
+  - If you do not, spend some time on [W3Schools](https://www.w3schools.com/) or talk with your partner through a webpage.
 
 #### 2. Begin Project 00
 
-With the remainder of the time that you have, you will be working on our first major project of the year [Project 00](/project_00_basic_webpage/).
+With the remainder of the time that you have, you will be working on our first major project of the year: [Project 00](/project_00_basic_webpage/).
 
-The lectures/videos won’t cover everything for this lab. The main goal is to get comfortable with documentation—even if that means trial and error.   
+The lectures/videos won’t cover everything for this lab. The main goal is to get comfortable with documentation — even if that means trial and error.
+
       
 
