@@ -138,6 +138,7 @@ Welcome back. The goal of this week is to work on a bulk of project_00. I will b
     - Paragraphs: `<p>`
 
   - If you do not, spend some time on [W3Schools](https://www.w3schools.com/) or talk with your partner through a webpage.
+  - Our quiz on Thursday will be on the basics of html
 
 #### 2. Begin Project 00
 
