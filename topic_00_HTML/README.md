@@ -130,7 +130,7 @@ Welcome back. The goal of this week is to work on a bulk of project_00. I will b
     - a github account (reply to the meet and greet)
     - a webpage hosted on that github account
       - I updated the directions link for github pages, so if you were having trouble with this I would try again
-    - a basic comfortability with HTML (What HTML stands for and what it’s used for, Basic document structure (''<!DOCTYPE html>, <html>, <head>, <body>), Headings (<h1>–<h6>''), Paragraphs
+    - a basic comfortability with HTML (What HTML stands for and what it’s used for, Basic document structure (<!-- <!DOCTYPE html>, <html>, <head>, <body>), Headings (<h1>–<h6>'') -->, Paragraphs
       - If you do not, spend some time on w3 schools or talk with your partner through a webpag
 
 #### 2. Begin Project 00
