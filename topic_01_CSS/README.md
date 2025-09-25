@@ -36,7 +36,6 @@ https://your-username.github.io/your-repo-name/
         See `practice_quiz1.pdf` and `practice_quiz2.pdf` for example problems.
 
         You will have the first 5 minutes of class to complete the quiz in class.
-        ```
 
 1. Starting next week, we will focus on back-end dev rather than front-end dev.
     There's a LOT more to front-end dev that we're not covering (we're only doing like 10% of Shay Howe's book),
