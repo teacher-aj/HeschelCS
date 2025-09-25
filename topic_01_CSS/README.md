@@ -20,6 +20,9 @@ If you want to make your HTML site live, follow these steps:
 3. Wait a few minutes  
    - GitHub takes 1–3 minutes to build  
    - A green box will appear with your site link
+  
+*If you make changes to your website on your computer you will have to delete and reupload them, and redo this process* 
+To unpublish site click unpublish. To reupubic clikc "main" then "none" then "save" then hit "main" again then save.
 
 Your site will be available at:  
 https://your-username.github.io/your-repo-name/
