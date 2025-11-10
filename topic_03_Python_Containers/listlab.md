@@ -17,7 +17,7 @@ The result will always be a string.
 
 ## What to do
 
-Open list_lab.py and write code to complete the four series of actions described below. Commit frequently. When finished, push to GitHub and submit your assignment.
+Open list_lab.py and write code to complete the four series of actions described below. Save frequently. When finished, submit your assignment to schoology.
 
 ---
 
