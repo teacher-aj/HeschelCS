@@ -1,102 +1,103 @@
-# Mini Twitter Project
+# Mini Twitter Project 
 
-This project will be completed this week to practice what we have learned about python contrainers (lists and dictionaries). 
+This week you’re going to build a tiny, text-only version of Twitter.  
+You’ll make accounts, write posts, see the feed, and like posts.  
+Everything will be saved in Python using **dictionaries** and **lists**.
 
-## Overview
+This project is meant to help you practice the basics: creating a dictionary, adding things into it, looping through a list, and updating values.
 
-In this project you everyone will build a small, bare bones text-based version of Twitter.
-You will create users, write posts, view a feed, and like posts.
-Everything will be stored using Python dictionaries and lists.
+## What You Are Starting With
 
-Your goal is to practice creating, accessing, updating, and looping
-through dictionaries.
+You will begin with three variables:
 
-## What You Will Build
+```
+users = {}        # usernames will go here
+posts = []        # every post you create gets added here
+post_id = 1       # each post gets its own number
+```
 
-Your mini Twitter will include:
+A **post** should look like:
 
-1.  A dictionary of users\
-2.  A list of posts\
-3.  Functions to create accounts, write posts, view the feed, and like
-    posts\
-4.  A menu system for user actions
+```
+{
+    "id": 1,
+    "user": "alex",
+    "text": "Hello everyone!",
+    "likes": 0
+}
+```
 
-## Starter Code
+A **user** should look like:
 
-    users = {}            # username -> user info
-    posts = []            # list of post dictionaries
-    post_id = 1           # numbering posts for easy reference
+```
+{
+    "bio": "your bio here",
+    "followers": 0
+}
+```
 
-A post will look like this:
+## What You Need to Build
 
-    {
-        "id": 1,
-        "user": "alex",
-        "text": "Hello everyone!",
-        "likes": 0
-    }
+### Create a User
+Write a function that asks the person for two things:  
+– a username  
+– a short bio  
 
-A user will look like this:
+Then make a dictionary with that information and store it inside `users` like this:
 
-    {
-        "bio": "your bio here",
-        "followers": 0
-    }
+```
+users["alex"] = {"bio": "hi", "followers": 0}
+```
 
-## Required Features
+### Write a Post
+Write a function that asks:  
+– who is posting  
+– what they want to say  
 
-### 1. Create a User
+Then make a post dictionary, give it the next available `id`, and add it to the `posts` list.
 
-Write a function that asks for a username and a bio. Store the
-information in the `users` dictionary.
+### View the Feed
+Write a function that loops through the `posts` list and prints each post so it looks neat.  
+(Username, the text, and how many likes it has.)
 
-### 2. Write a Post
+### Like a Post
+Ask the user for the post ID.  
+Find that post in the list and increase its `"likes"` by 1.
 
-Write a function that asks for a username and the text of the post.
-Create a new post dictionary and add it to the `posts` list.
+### The Menu
+Write a loop that keeps showing these choices until the person chooses Exit:
 
-### 3. View the Feed
+```
+1. Create a user
+2. Write a post
+3. View the feed
+4. Like a post
+5. Exit
+```
 
-Loop through the `posts` list and print each post in a readable format.
+When the user types a number, call the matching function.
 
-### 4. Like a Post
+## Extra Challenge Ideas (Optional)
 
-Ask for a post ID and increase the like count on that post.
+You only need one of these, but you can do more:
 
-### 5. Main Menu
+– search the feed for a word  
+– count hashtags  
+– let users edit their bio  
+– let users delete their own posts  
+– show the post with the most likes  
 
-Create a loop that shows this menu:
+## What I’m Looking For
 
-    1. Create a user
-    2. Write a post
-    3. View the feed
-    4. Like a post
-    5. Exit
+Your code should:  
+– actually use dictionaries and lists  
+– run without crashing  
+– be organized into functions  
+– be easy to read  
+– include at least one extension  
+– be tested before you turn it in  
 
-The menu should repeat until the user chooses Exit.
+## Hint to Get Started
 
-## Extension Challenges
-
-Choose at least one for extra credit:
-
-1.  Search the feed for a keyword\
-2.  Count how many times each hashtag appears\
-3.  Let users edit their bio\
-4.  Let users delete their own posts\
-5.  Show the most popular post in the feed
-
-## Grading Checklist
-
--   Uses dictionaries correctly\
--   Uses lists correctly\
--   Functions work without errors\
--   Code is readable and well organized\
--   At least one extension is completed\
--   Code is tested before submission
-
-## Tips
-
--   Use functions to keep code organized\
--   Test each feature as you write it\
--   Print dictionaries while debugging\
--   Keep printed output clean and simple
+Build it one step at a time.  
+Start with just the “create a user” function, print `users` to check it works, and move on from there.
