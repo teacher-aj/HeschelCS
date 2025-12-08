@@ -19,7 +19,7 @@ You will choose one dataset (CSV), analyze it using Python and pandas, and creat
 1. Find two datasets that are interesting to you, and download them.
    Good places to look for datasets include:
 
-    1. https://github.com/jdorfman/awesome-json-datasets
+    1. [https://github.com/awesomedata/awesome-public-datasets)]
 
     1. https://catalog.data.gov/dataset?res_format=JSON
 
