@@ -3,9 +3,9 @@
 ![comic](convincing.png)
 
 **Description:** 
-You will perform a simple data visualization on a dataset of your choice and create a webpage that describes the results.
+You will choose one dataset (CSV), analyze it using Python and pandas, and create two different graphs using matplotlib. Then you will make a simple webpage (a README.md file on GitHub) to explain what you discovered.
 
-**Due:** 
+**Due: Tuesday, December 16th** 
 
 
 **Learning objectives:**
@@ -27,10 +27,9 @@ You will perform a simple data visualization on a dataset of your choice and cre
 
    You may use any dataset of your choosing, but you may not use the same dataset as any other student who you discuss this project with.
 
-   One of your datasets must be in CSV format, and the other must be in JSON format.
-   [Chapter 14 of the textbook](https://automatetheboringstuff.com/chapter14/) includes instructions for working with both types of files.
+   [Chapter 14 of the textbook](https://automatetheboringstuff.com/chapter14/) includes instructions for working with these types of files.
    <!--
-   Some datasets are in CSV format instead of JSON format.
+   The datasets we are working with are in CSV format.
    CSV files are even easier to work with than JSON files,
    and [the book has a whole chapter of examples](https://automatetheboringstuff.com/chapter14/).
    -->
@@ -90,7 +89,7 @@ You will perform a simple data visualization on a dataset of your choice and cre
 
    1. The python file that generates the plots
 
-   1. Any JSON/CSV files needed to reproduce the plots
+   1. Any CSV files needed to reproduce the plots
 
    1. A `README.md` markdown file that describes your project.
 
@@ -124,9 +123,3 @@ Each plot is worth 6 points.
 
 Your github repo is worth 4 points.
 
-<!--
-## Extra credit
-
-You can receive 1 point of extra credit if you use the mpld3 extension to matplotlib to generate interactive html plots and include those in your webpage.
-See the [mpld3 examples library](https://mpld3.github.io/examples/index.html) for examples of how to do this.
--->
