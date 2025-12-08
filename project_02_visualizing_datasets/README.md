@@ -21,9 +21,11 @@ You will choose one dataset (CSV), analyze it using Python and pandas, and creat
 
     1. [https://github.com/awesomedata/awesome-public-datasets)]
 
-    1. https://catalog.data.gov/dataset?res_format=JSON
+    1. [(https://data.fivethirtyeight.com/)]
 
-    1. http://data.un.org/
+    1. [https://www.kaggle.com/datasets]
+
+   1. [https://data.world/datasets/csv]
 
    You may use any dataset of your choosing, but you may not use the same dataset as any other student who you discuss this project with.
 
