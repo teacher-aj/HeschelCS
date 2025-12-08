@@ -11,7 +11,6 @@ You will choose one dataset (CSV), analyze it using Python and pandas, and creat
 **Learning objectives:**
 
 1. complete a python project entirely on your own
-1. integrate python knowledge with HTML/Markdown knowledge
 1. understand how python allows more advanced data analysis than tools like excel
 
 ## Instructions
