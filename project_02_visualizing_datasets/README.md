@@ -28,7 +28,7 @@ You will choose one dataset (CSV), analyze it using Python and pandas, and creat
 
    You may use any dataset of your choosing, but you may not use the same dataset as any other student who you discuss this project with.
 
-   [Chapter 14 of the textbook](https://automatetheboringstuff.com/chapter14/) includes instructions for working with these types of files.
+   [matplotlib website](https://matplotlib.org/stable/tutorials/pyplot.html) will explain how to use methods to create a graph.
    <!--
    The datasets we are working with are in CSV format.
    CSV files are even easier to work with than JSON files,
