@@ -17,7 +17,7 @@ Important links:
 |-|-|
 | Name | AJ Holzer (call me AJ) |
 | Email | aj.holzer@heschel.org |
-| Office |Middle School |
+| Office |Middle School Room 414A |
 | Office Hours | See [Issue #2] (https://github.com/teacher-aj/CSHeschel-new/issues/2) |
 
 about me:
