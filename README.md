@@ -24,7 +24,7 @@ about me:
 1. I studied neuroscience and computer science at a small college in California (a little more than double the size of Heschel Highschool)
 1. I've worked at a lab in Israel, researching hyperbaric oxygen therapy. This work was mentioned in [Joe Rogan Podcast](https://www.youtube.com/watch?v=9Bon5c5DEI4) and [CBS](https://www.cbsnews.com/news/promising-treatment-for-ptsd-hyperbaric-oxygen-therapy/) 
 1. I taught 7th grade science last year (I teach it this year as well!)
-1. I visited five national parks this summer! But my favorite place I visitied this year was Big Sur. 
+1. I visited five national parks this summer! But my favorite place I visitied this year was Big Sur. I went on a camping trip there in April 2025.
 <img src="https://github.com/user-attachments/assets/6956a677-1a20-4497-90ba-27f072f7f327" alt="IMG_5121" width="30%" />
 
 ## About the Course
