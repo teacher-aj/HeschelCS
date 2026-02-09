@@ -102,19 +102,14 @@ Welcome to our first week of content!
    - In the step marked `?` (between step 1 and step 2), select **“I don’t know”** for *What git client are you using?*.  
    - This will guide you to install **GitHub Desktop** for your OS.  
 
-2. [Set up Google Analytics](https://support.google.com/analytics/answer/1008015?hl=en) and add it to your page.  
-   > **NOTE:**  
-   > You must insert a `<script>` tag into your HTML.  
-   > Each time you update your page, you’ll need to re-upload with GitHub Desktop.
-   > Quick Google Analytics Intro](https://www.youtube.com/watch?v=RL61v47WyHs)
 
-3. Get at least **5 people** to star your repo on GitHub.  
+1. Get at least **5 people** to star your repo on GitHub.  
    - Use class time to trade stars/likes with other students.  
    > **NOTE:**  
    > Stars help boost rankings in GitHub and Google search.  
    > Later, you’ll also need external links to your page. Now is a good time to start trading links (not required for this lab).  
 
-4. Upload your webpage URL to **Schoology**.
+1. Upload your webpage URL to **Schoology**.
 
 ---
 # Week 02: HTML Continued
