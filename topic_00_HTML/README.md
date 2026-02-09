@@ -13,7 +13,7 @@ Welcome to our first week of content!
 > - All of the software we use is open source, so you can freely download it and keep access to it after the semester/graduation.  
 > - If you change computers, you will need to reinstall the software.  
 
-1. [Install VS Code](https://code.visualstudio.com/Download).  
+1. Make an account on codepen
    *Note: VS Code includes tracking plugins that allow Microsoft to monitor usage.*  
 
 2. Most of our class will take place on GitHub. If you don’t already have an account, [create one here](https://github.com/join).  
@@ -54,7 +54,7 @@ Welcome to our first week of content!
 > This activity will introduce you to the structure of an HTML document.  
 > By the end, you will have created and opened your very first webpage in a browser.  
 
-1. Open VS Code.  
+1. Codepen 
 
 2. Copy the following code into a new file:  
 
