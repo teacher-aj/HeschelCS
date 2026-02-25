@@ -103,7 +103,7 @@ If you complete all checkboxes, then you will get 16/16 points.
 > **NOTE:**
 > We did not cover in class how to complete the *italicized* steps above,
 > and this was intentional.
-> You will have to use google/ChatGPT/the textbook to figure these out for yourself.
+> You will have to use google/Flint/the textbook to figure these out for yourself.
 > No programmer 100% understands HTML or CSS, and so everyone relies on looking up information while coding.
 > The purpose of making you do things not covered in class is to get you practice relying on external resources.
 
