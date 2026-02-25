@@ -109,23 +109,6 @@ If you complete all checkboxes, then you will get 16/16 points.
 
 <img src=googling.jpg width=300px>
 
-### Extra Credit: Social Media Engagement
-
-There is no explicit requirement that your webpage "look nice" or have "good content" as these criteria are too subjective to grade.
-Instead, you can earn extra credit points by making your webpage look nice and have good content.
-
-In particular, you can get 1 pt of extra credit by completing either of the following tasks.
-(Thus the maximum score on this assignment is 17/16.)
-
- - [ ] 
-    Post your site to reddit and get at least 100 upvotes.
-    These upvotes must be on a single submission, and not cumulative over several submissions.
-    To get ideas on how to make a successful post, [read this reddit thread on getting upvotes](https://www.reddit.com/r/NoStupidQuestions/comments/729fo8/how_do_some_reddit_posts_get_thousands_of_upvotes/) and [learn about reddit's ranking algorithms here](https://medium.com/hacking-and-gonzo/how-reddit-ranking-algorithms-work-ef111e33d0d9).
-
- - [ ] 
-    Get more than 1000 unique visitors to your webpage in a single 48 hour period, as shown by your Google Analytics tracker.
-
-For any of these extra credit tasks, feel free to get creative and use whatever [black hat](https://blog.hubspot.com/marketing/black-hat-seo) techniques you can think of.
 
 ## Submission
 
