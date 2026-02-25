@@ -16,7 +16,6 @@ and you can earn extra credit by having a large number of people visit your webp
 **Secondary learning objectives:**
 
 1. understand the basics of search engine optimization
-1. understand the basics of web tracking
 
 ## Instructions
 
@@ -76,8 +75,6 @@ If you complete all checkboxes, then you will get 16/16 points.
      - [ ] *contain at least 3 `<div>` tags styled using CSS*
 
      - [ ] contain at least 1 `<span>` tag styled using CSS
-
-     - [ ] contain a Google Analytics tracker using the `<script>` tag
 
      - [ ] NOT contain any broken links
 
