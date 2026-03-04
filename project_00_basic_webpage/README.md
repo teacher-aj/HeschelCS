@@ -89,7 +89,7 @@ If you complete all checkboxes, then you will get 16/16 points.
      - [ ] define at least 2 [class selectors](https://www.w3schools.com/cssref/sel_class.asp) and 1 [id selector](https://www.w3schools.com/cssref/sel_id.asp)
 
      - [ ] *pass the [W3 CSS Validator](https://jigsaw.w3.org/css-validator/) with no errors*
-
+ - Upload your website to Github Pages see instructions [here](https://docs.github.com/en/pages/quickstart)
  - Extra Credit (1 point if total score < 8):
 
      - [ ] *be archived by the Internet Archive; see instructions [here](https://www.bitsgalore.org/2014/08/02/How-to-save-a-web-page-to-the-Internet-Archive) for submitting your webpage*
