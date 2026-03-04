@@ -88,8 +88,6 @@ If you complete all checkboxes, then you will get 16/16 points.
 
      - [ ] define at least 2 [class selectors](https://www.w3schools.com/cssref/sel_class.asp) and 1 [id selector](https://www.w3schools.com/cssref/sel_id.asp)
 
-     - [ ] *use the [@media rule](https://www.w3schools.com/cssref/css3_pr_mediaquery.asp) to modify some attribute for small screen sizes*
-
      - [ ] *pass the [W3 CSS Validator](https://jigsaw.w3.org/css-validator/) with no errors*
 
  - Extra Credit (1 point if total score < 8):
