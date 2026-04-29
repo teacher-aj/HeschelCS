@@ -1,6 +1,8 @@
 
 # Project 01: The Pythonator
 
+[Flint link](https://app.flintk12.com/activities/project-01-the--1ed059/sessions/new)
+
 ### Description
 In this project, you’ll build a simple “thinking machine” — a Python program that tries to guess what the user is thinking by asking a series of yes/no questions.
 
