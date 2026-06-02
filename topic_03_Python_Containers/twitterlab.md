@@ -1,6 +1,6 @@
 # Mini Twitter Project 
 
-(flint)[https://app.flintk12.com/activities/mini-twitter-pr-7287c8/sessions/new]
+[Flint Link](https://app.flintk12.com/activities/mini-twitter-pr-7287c8/sessions/new)
 
 This week you’re going to build a tiny, text-only version of Twitter.  
 You’ll make accounts, write posts, see the feed, and like posts.  
